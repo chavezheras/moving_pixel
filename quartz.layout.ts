@@ -7,8 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/chavezheras"
     },
   }),
 }
@@ -26,7 +25,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      filterFn: (node) => {
+        // set containing names of everything you want to filter out
+        const omit = new Set(["twitter", "twitter_bookmarks", "a-note-about-my-notes", "contact", "publications", "learn-more-about-my-work", "study-with-me", "public-speaking", "consulting", "contact", "about-me-(bio)", "press-queries", "research-interests"])
+        return !omit.has(node.name.toLowerCase())
+      },
+    })),
   ],
   right: [
     Component.Graph(),
@@ -43,7 +48,13 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      filterFn: (node) => {
+        // set containing names of everything you want to filter out
+        const omit = new Set(["twitter", "twitter_bookmarks", "a-note-about-my-notes", "contact", "publications", "learn-more-about-my-work", "study-with-me", "public-speaking", "consulting", "contact", "about-me-(bio)", "press-queries", "research-interests"])
+        return !omit.has(node.name.toLowerCase())
+      },
+    })),
   ],
   right: [],
 }

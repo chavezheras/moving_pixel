@@ -4,7 +4,7 @@ enableToc: true
 date_created: 11 April 2024
 date_modified: 01 May 2024
 ---
-
+![[assets/images/header.gif]]
 
 Welcome to my website. I am an academic and technologist, specialised in the computational production and analysis of visual culture. My work combines critical frameworks in the history and theories of cinema, television, and photography, with advanced technical practice in creative and scientific computing, including applied machine learning technologies (AI).
 

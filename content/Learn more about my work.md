@@ -16,6 +16,6 @@ In my work I aim to integrate concepts from various theories of cinema, photogra
 - [[Projects/Made by Machine|An experimental AI-TV programme]] made in collaboration with BBC R&D
 - [[Projects/Focal length classifier|A focal length classifier]]I built to test the idea of an optical perspective in computer vision
 
-I regularly present these and other [[Projects/]] at various [[All events|events]]. Some of these experiments and ideas have become projects and [[Publications|publications]], and a more comprehensive account of recent research can be found in my new book [Cinema and Machine Vision](https://edinburghuniversitypress.com/book-cinema-and-machine-vision.html) (Edinburgh University Press, 2024). 
+I regularly present these and other [[Projects/]] at various [[Events/All events|events]]. Some of these experiments and ideas have become projects and [[Publications/Publications|publications]], and a more comprehensive account of recent research can be found in my new book [Cinema and Machine Vision](https://edinburghuniversitypress.com/book-cinema-and-machine-vision.html) (Edinburgh University Press, 2024). 
 
 See more about specific [[Research interests|research interests]], or my [[Contact|contact]] details if you want to connect. And here is a [[About me (bio)|short bio]] in the third person helpful for events and the web.

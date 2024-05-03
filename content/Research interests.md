@@ -2,7 +2,7 @@
 title: Research interests
 draft: false
 tags:
-  - entry_point
+  - navi_node
 date_created: 12 April 2024
 date_modified: 12 April 2024
 ---
@@ -19,6 +19,6 @@ Most of my work falls in one of these overlapping categories:
 
 Below is a screenshot of my [PURE profile "fingerprint"](https://kclpure.kcl.ac.uk/portal/en/persons/daniel.chavez/fingerprints/)based on my [[Publications|publications]]; for more details see [[Learn more about my work|this note about my work]].
 
-![[Pasted image 20240429155247.png]]
+![[assets/Pasted image 20240429155247.png]]
 
 

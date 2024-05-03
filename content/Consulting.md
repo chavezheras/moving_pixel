@@ -1,8 +1,7 @@
 ---
 title: Consulting
 draft: false
-tags:
-  - navi_node
+tags: []
 date_created: 01 May 2024
 date_modified: 01 May 2024
 ---

@@ -18,7 +18,7 @@ I am especially keen to talk about:
 - Visual and Computational Cultures (past and present)
 - Media history, theory, and technology (especially early cinema and historical poetics)
 
-See [[All events|past events]] to get a flavour of my public lectures and seminars for academic and non-academic audiences.
+See [[Events/All events|past events]] to get a flavour of my public lectures and seminars for academic and non-academic audiences.
 
 I'm generally eager to discuss potential speaking engagements and explore how my expertise can benefit your audience. To [[Contact|make an inquiry]] or request a talk, please consider that it's essential to plan against my academic commitments and allow sufficient time for me to prepare, especially where international travel is involved. Please provide the following information in your inquiry:
 
@@ -28,4 +28,4 @@ I'm generally eager to discuss potential speaking engagements and explore how my
 - Whether it will be recorded and how it will be disseminated.
 - Indicate if the event is free to attend or if tickets will be sold and if a speaker fee is available.
 
-If you want to know more, please [[Contact|contact me]]. If I am already a speaker at your event and you need a bio, [[About me (bio)|click here]].
+If you want to know more, please [[Contact|contact me]]. If I am already a speaker at your event and you need a bio, [[About me (bio)|click here]]. If you are interested in contacting me for consulting work, please see [[Consulting|here]].

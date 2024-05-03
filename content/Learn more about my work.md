@@ -4,7 +4,7 @@ draft: false
 tags:
   - navi_node
 date_created: 12 April 2024
-date_modified: 02 May 2024
+date_modified: 03 May 2024
 ---
 ---
 
@@ -12,9 +12,9 @@ date_modified: 02 May 2024
 
 In my work I aim to integrate concepts from various theories of cinema, photography, aesthetics, and philosophy more generally, with advanced computational practice, such as computational modelling, time-series analysis, and machine learning. To get a flavour of this kind of work, see for example:
 
-- This [[Creanalytics|parametric supercut generator]] I made using shot-scale detection
-- [[Made by Machine|An experimental AI-TV programme]] made in collaboration with BBC R&D
-- [[Focal length classifier|A focal length classifier]]I built to test the idea of an optical perspective in computer vision
+- This [[Projects/Creanalytics|parametric supercut generator]] I made using shot-scale detection
+- [[Projects/Made by Machine|An experimental AI-TV programme]] made in collaboration with BBC R&D
+- [[Projects/Focal length classifier|A focal length classifier]]I built to test the idea of an optical perspective in computer vision
 
 I regularly present these and other [[Projects/]] at various [[All events|events]]. Some of these experiments and ideas have become projects and [[Publications|publications]], and a more comprehensive account of recent research can be found in my new book [Cinema and Machine Vision](https://edinburghuniversitypress.com/book-cinema-and-machine-vision.html) (Edinburgh University Press, 2024). 
 

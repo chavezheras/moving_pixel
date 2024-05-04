@@ -7,7 +7,7 @@ date_modified: 04 September 2023, 04:31
 ---
 ---
 
-![[Pasted image 20240501190714.png]]
+![[../assets/cinema_machine_vision.png]]
 
 I am very happy that my book is coming coming out in 2024 with [Edinburgh University Press](https://edinburghuniversitypress.com/book-cinema-and-machine-vision.html)
 Here a teaser from the back cover:

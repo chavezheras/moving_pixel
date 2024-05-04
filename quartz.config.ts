@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Daniel Chávez Heras",
+    pageTitle: "Moving Pixel",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "null",
     },
     locale: "en-US",
-    baseUrl: "chavezheras.github.io/quartz",
+    baseUrl: "chavezheras.github.io/moving_pixel",
     ignorePatterns: ["private", "templates", ".obsidian", "copilot-conversations", "**/private", "**/copilot-conversations"],
     defaultDateType: "created",
     theme: {

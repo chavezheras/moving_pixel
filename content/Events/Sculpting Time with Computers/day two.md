@@ -11,7 +11,7 @@ date_modified: 02 May 2024
 ## 7 July
 
 ### Fast prototyping session
-On day two, we gathered again to decide what ideas we could put to the test and fast-prototype. We examined two datasets: [[../../../../public_notes/Sculpting Time with Computers/Mila Oiva|Mila's]] soviet newsreels and this publicly available sample from [BBC Archives](https://archive-downloader.bbcrewind.co.uk/). We decided to focus on the newsreels, which have richer metadata. The idea was to test two methods that map to our discussions of [[public_notes/Sculpting Time with Computers/historical time|historical time]] and meaningful objects, and [[public_notes/Sculpting Time with Computers/cinematic time|cinematic time]] and fast/slow editing. We tested on the newsreels:
+On day two, we gathered again to decide what ideas we could put to the test and fast-prototype. We examined two datasets: [[../../../../public_notes/Sculpting Time with Computers/Mila Oiva|Mila's]] soviet newsreels and this publicly available sample from [BBC Archives](https://archive-downloader.bbcrewind.co.uk/). We decided to focus on the newsreels, which have richer metadata. The idea was to test two methods that map to our discussions of [[public_notes/Sculpting Time with Computers/historical time|historical time]] and meaningful objects, and [[cinematic time]] and fast/slow editing. We tested on the newsreels:
 
 - [Open clip](https://github.com/mlfoundations/open_clip) --> an open source implementation of CLIP pretrained on the LAION 2B dataset. The core idea behind CLIP is to have text and images in a shared representational space that allows calculations of proximity between them. This can then be used for analysis and retrieval.
 

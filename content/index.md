@@ -12,7 +12,7 @@ I am a Lecturer (≈Assistant Professor) in Digital Culture and Creative Computi
 
 My work combines critical frameworks in the history and theories of cinema, television, and photography, with advanced technical practice in creative and scientific computing, including applied machine learning technologies (AI). The relation between computational and visual cultures is central to my research, but I am curious about many other fields, and I tend to be most productive when working across disciplines.
 
-![[assets/images/self-portrait_14.png]]
+![[assets/images/self-portrait_14.png|250]]
 
 In this site I collect most of my activities as a "net of notes", similar in concept and ethos to a [[A note about my notes|digital garden]]. You can explore the notes by following the back links, clicking the nodes in graph view, by using the explorer menu (if you are on a Desktop), or searching directly using the search bar above. You can also see all the notes as a expanded network by clicking the graph icon 🕸️ in the graph view widget.
 

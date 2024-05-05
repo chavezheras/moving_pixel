@@ -5,6 +5,8 @@ draft: false
 tags:
 - complex systems
 - cellular biology
+date_created: 04 May 2024
+date_modified: 05 May 2024
 ---
 ---
 
@@ -22,3 +24,4 @@ According to Paul Nurse:
 
 From his book [What is Life?](https://www.waterstones.com/book/what-is-life/paul-nurse/9781788451406)
 
+[[../Events/Ojos que no ven, máquinas que no sienten|Ojos que no ven, máquinas que no sienten]]

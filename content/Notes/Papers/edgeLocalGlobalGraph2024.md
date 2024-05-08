@@ -1,6 +1,7 @@
 ---
 citekey: edgeLocalGlobalGraph2024
 aliases:
+  - Notes
   - Edge et al. (2024) From Local to Global
 title: "From Local to Global: A Graph RAG Approach to Query-Focused Summarization"
 authors:
@@ -24,6 +25,8 @@ tags:
   - InfoRetrieval
 doi: https://doi.org/10.48550/arXiv.2404.16130
 draft: true
+linter-yaml-title-alias: Notes
+date_modified: 08 May 2024
 ---
 
 > [!Cite]

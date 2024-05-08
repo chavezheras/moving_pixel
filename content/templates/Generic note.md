@@ -2,7 +2,7 @@
 title: "{{title}}"
 draft: true
 tags: 
-date_created: 
+date: 
 date_modified: 
 aliases:
 ---

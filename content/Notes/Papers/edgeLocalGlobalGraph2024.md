@@ -16,19 +16,21 @@ date: 24 April 2024
 item-type: Preprint
 publisher: ""
 tags:
-  - Computer-Science---Artificial-Intelligence
-  - Computer-Science---Computation-and-Language
-  - Computer-Science---Information-Retrieval
+  - ComputerScience
+  - AI
+  - RAG
+  - Graphs
+  - NetSci
+  - InfoRetrieval
 doi: https://doi.org/10.48550/arXiv.2404.16130
-draft: false
+draft: true
 ---
 
 > [!Cite]
 > Edge D, Trinh H, Cheng N, et al. (2024) From Local to Global: A Graph RAG Approach to Query-Focused Summarization. arXiv:2404.16130. arXiv. Available at: [http://arxiv.org/abs/2404.16130](http://arxiv.org/abs/2404.16130) (accessed 8 May 2024).
 
 > [!LINK] 
->
->  [Edge et al_2024_From Local to Global.pdf](file:///home/daniel/Zotero/storage/5EVWJM2N/Edge%20et%20al_2024_From%20Local%20to%20Global.pdf).
+> http://arxiv.org/abs/2404.16130
 
 > [!Abstract]
 >
@@ -39,39 +41,67 @@ draft: false
 
 ## Annotations
 
-### Imported: 08 May 2024 4:47 pm
+### Imported: 08 May 2024 5:27 pm
 
 
 <mark style="background-color: #ffd400">Quote</mark>
-> Retrieval-augmented generation (RAG, Lewis et al., 2020) is an established approach to answering user questions over entire datasets, but it is designed for situations where these answers are contained locally within regions of text whose retrieval provides sufficient grounding for the generation task.
+> asking questions of a global nature
 
 Page: 2
-Note: And this is a comment on a highlight on page 2
+Note: 
 
 
 <mark style="background-color: #ffd400">Quote</mark>
-> The challenge remains, however, for query-focused abstractive summarization over an entire corpus. Such volumes of text can greatly exceed the limits of LLM context windows, and the expansion of such windows may not be enough given that information can be “lost in the middle” of longer contexts (Kuratov et al., 2024; Liu et al., 2023).
+> The challenge remains, however, for query-focused abstractive summarization over an entire corpus. Such volumes of text can greatly exceed the limits of LLM context windows, and the expansion of such windows may not be enough given that information can be “lost in the middle” of longer contexts (Kuratov et al., 2024; Liu et al., 2023)
 
 Page: 2
-Note: yet another comment on a highlight
+Note: And is also inefficient to parse over the whole context for a global query that might be available from a different source.
 
 
-<mark style="background-color: #2ea8e5">Quote</mark>
-> We now unpack the high-level data flow of the Graph RAG approach (Figure 1) and pipeline, describing key design parameters, techniques, and implementation details for each step.
+<mark style="background-color: #ffd400">Quote</mark>
+> we focus on a previously unexplored quality of graphs in this context: their inherent modularity (Newman, 2006) and the ability of community detection algorithms to partition graphs into modular communities of closely-related nodes (e.g., Louvain, Blondel et al., 2008; Leiden, Traag et al., 2019).
 
-Page: 3
-Note: One more comment on a highlight
+Page: 2
+Note: 
 
 
+<mark style="background-color: #ffd400">Quote</mark>
+> Our default covariate prompt aims to extract claims linked to detected entities, including the subject, object, type, description, source text span, and start and end dates.
 
-> 
-
-Page: 3
-Note: Make this a stand alone note
+Page: 4
+Note: 
 
 
 <mark style="background-color: #5fb236">Quote</mark>
-> To balance the needs of efficiency and quality, we use multiple rounds of “gleanings”, up to a specified maximum, to encourage the LLM to detect any additional entities it may have missed on prior extraction rounds.
+> The index created in the previous step can be modelled as an homogeneous undirected weighted graph in which entity nodes are connected by relationship edges, with edge weights representing the normalized counts of detected relationship instances. Given such a graph, a variety of community detection algorithms may be used to partition the graph into communities of nodes with stronger connections to one another than to the other nodes in the graph (e.g., see the surveys by Fortunato, 2010 and Jin et al., 2021).
 
 Page: 4
-Note: This is a green note on the text
+Note: Think of community detection via clustering
+
+
+<mark style="background-color: #ffd400">Quote</mark>
+> Given a user query, the community summaries generated in the previous step can be used to generate a final answer in a multi-stage process. The hierarchical nature of the community structure also means that questions can be answered using the community summaries from different levels, raising the question of whether a particular level in the hierarchical community structure offers the best balance of summary detail and scope for general sensemaking questions (evaluated in section 3).
+
+Page: 5
+Note: Echoes the global and local time dynamics of the three times theory
+
+
+<mark style="background-color: #2ea8e5">Quote</mark>
+> We selected two datasets in the one million token range, each equivalent to about 10 novels of text and representative of the kind of corpora that users may encounter in their real world activities
+
+Page: 6
+Note: 
+
+
+<mark style="background-color: #f19837">Quote</mark>
+> where subsets of the graph structure (G-Retriever, He et al., 2024) or derived graph metrics (GraphToolFormer, Zhang, 2023) are the objects of enquiry, where narrative outputs are strongly grounded in the facts of retrieved subgraphs (SURGE, Kang et al., 2023), where retrieved event-plot subgraphs are serialized using narrative templates (FABULA, Ranade and Joshi, 2023)
+
+Page: 11
+Note: 
+
+
+<mark style="background-color: #ffd400">Quote</mark>
+> This “roll-up” operation could also be extended across more levels of the community hierarchy, as well as implemented as a more exploratory “drill down” mechanism that follows the information scent contained in higher-level community summaries
+
+Page: 11
+Note: 

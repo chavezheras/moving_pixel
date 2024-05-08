@@ -34,8 +34,7 @@ publisher: {% if publicationTitle %}"{{publicationTitle}}"{% else %}"{{publisher
 comments:
 {% endif -%}
 - "{{comment|replace('"',"'")| replace("\n"," ")}}"{% endfor %}
-tags:{% for t in tags %}
-- {{t.tag | replace(r/\s+/g, "-")}}{% endfor %}
+tags: {% if allTags %}{{allTags}}{% endif %}
 {% if DOI %}
 doi: https://doi.org/{{DOI}}{% endif %}{% if itemType == "book" %}
 ISBN: {{ISBN}}{% endif %}
@@ -46,8 +45,7 @@ draft: true
 > {{bibliography}}
 
 > [!LINK] 
-> {%- for attachment in attachments | filterby("path", "endswith", ".pdf") %}
->  [{{attachment.title}}](file://{{attachment.path | replace(" ", "%20")}})  {%- endfor -%}.
+> {{url}}
 
 > [!Abstract]
 > {%- if abstractNote %}

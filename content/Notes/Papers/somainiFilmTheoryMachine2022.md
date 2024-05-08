@@ -27,5 +27,6 @@ draft: false
 >.
 > 
 # Notes
+See [[../Cinema and Machine Vision|Cinema and Machine Vision]] for info about my book on the subject.
 
 ## Annotations

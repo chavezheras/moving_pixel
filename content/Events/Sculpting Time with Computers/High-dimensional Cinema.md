@@ -10,7 +10,7 @@ date_modified: 12 April 2024
 ---
 ---
 
-[[public_notes/Sculpting Time with Computers/Nanne van Noord|Nanne van Noord]], [[public_notes/Sculpting Time with Computers/Mila Oiva|Mila Oiva]] and myself got together to to present recent research and engage in conversation about recent advances at the intersection between cultural analytics, computational aesthetics, and machine learning. This was a public-facing event part of the the [[Sculpting Time With Computers|Sculpting Time With Computers workshop]], supported by the [Department of Digital Humanities](https://www.kcl.ac.uk/ddh) and the [Digital Futures Institute](https://www.kcl.ac.uk/dfi) at King's College London.
+[[Nanne van Noord|Nanne van Noord]], [[Mila Oiva|Mila Oiva]] and myself got together to to present recent research and engage in conversation about recent advances at the intersection between cultural analytics, computational aesthetics, and machine learning. This was a public-facing event part of the the [[Sculpting Time With Computers|Sculpting Time With Computers workshop]], supported by the [Department of Digital Humanities](https://www.kcl.ac.uk/ddh) and the [Digital Futures Institute](https://www.kcl.ac.uk/dfi) at King's College London.
 
 ![[assets/images/high-dimensional_cinema.jpeg]]
 

@@ -6,7 +6,7 @@ tags:
   - design
   - MachineVision
   - art
-date_created: 11 April 2024
+date_created: 18 February 2023
 date_modified: 12 April 2024
 ---
 ---

@@ -8,7 +8,7 @@ date_modified: 29 April 2024
 ---
 ---
 
-📚 As an advocate for interdisciplinary research, I am looking for prospective PhD students to join me in pursuing leading research at the intersection between culture and technology. You can read [[Learn more about my work|more about my work]], or see my [[Research interests|research interests]] or my [[Publications/Publications|publications]] to know more about the areas in which I work.
+📚 As an advocate for interdisciplinary research, I am looking for prospective PhD students to join me in pursuing leading research at the intersection between culture and technology. You can read [[Learn more about my work|more about my work]], or see my [[Research interests|research interests]] or my [[Publications/All publications|publications]] to know more about the areas in which I work.
 
 ## About you
 My **ideal doctoral student** is someone with a strong disciplinary background and technical skills, who has managed to "make the jump" between arts and sciences. This might include for example:

@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: all_publications
 draft: true
 tags:
   - navi_node

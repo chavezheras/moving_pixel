@@ -21,4 +21,4 @@ My contribution to the publication was titled: *The Digital Pastoral: A minor cr
 
 ![minor tech panel](assets/images/minor_tech_panel.jpeg)
 
-See some of my [[Publications|other publications]].
+See some of my [[../Publications/All publications|other publications]].

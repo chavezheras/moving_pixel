@@ -15,4 +15,4 @@ date: 01 May 2016
 
 I directed this student-led project at [UAEMex](https://www.uaemex.mx/), the first online short-film festival in Mexico _Festival Online Futuros Astimétricos_. The programme showcased 90 selected pieces of animation, sound-art, net-art, and narrative short films, from over 20 countries, including Spain, Colombia, Argentina, Brazil, USA, Canada, Germany, France, Portugal, Finland, Poland, Iran, etc. And included 18 conferences by international speakers.
 
-Also during my time at UAEMex, I published [a book chapter](ri.uaemex.mx/handle/20.500.11799/32285) on massive online RPG architecture and the [famous prison etchings of Piranesi](https://en.wikipedia.org/wiki/Carceri_d'invenzione). See [[Publications|my publications]] for more info.
+Also during my time at UAEMex, I published [a book chapter](ri.uaemex.mx/handle/20.500.11799/32285) on massive online RPG architecture and the [famous prison etchings of Piranesi](https://en.wikipedia.org/wiki/Carceri_d'invenzione). See [[../Publications/All publications|my publications]] for more info.

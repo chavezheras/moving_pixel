@@ -6,7 +6,7 @@ tags:
   - MachineVision
   - AI
   - stablediffusion
-date_created: 12 April 2024
+date_created: 16 November 2022
 date_modified: 12 April 2024
 ---
 ---

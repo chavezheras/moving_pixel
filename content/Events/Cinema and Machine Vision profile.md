@@ -1,6 +1,6 @@
 ---
 title: Cinema and Machine Vision summary
-draft: true
+draft: false
 tags:
   - MachineVision
   - publication

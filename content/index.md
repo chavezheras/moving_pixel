@@ -1,12 +1,12 @@
 ---
-title: 📝 Daniel's Net of Notes
+title: My Net of Notes
 enableToc: true
 date_created: 11 April 2024
 date_modified: 01 May 2024
 ---
 ![[assets/images/header.gif]]
 
-I am Daniel Chávez Heras, an academic and technologist specialised in the computational production and analysis of visual culture. Welcome to my website. 
+Welcome to my website, I am an academic and technologist specialised in the computational production and analysis of visual culture.
 
 I work as a lecturer (≈Assistant Professor) in Digital Culture and Creative Computing at [King's College London](https://www.kcl.ac.uk/people/daniel-chavez-heras)  where I am part of the [Computational Humanities Group](https://www.kcl.ac.uk/research/computational-humanities-research-group), the [Creative AI Lab](https://creative-ai.org/info) (in partnership with the [Serpentine Galleries](https://www.serpentinegalleries.org/))and an affiliate of [King's AI Institute](https://www.kcl.ac.uk/ai). I also have experience in the creative industries: print, digital and television; in Mexico and in the UK; with cultural institutions such as the British Council, and the BBC.
 

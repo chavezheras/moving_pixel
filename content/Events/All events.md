@@ -9,8 +9,12 @@ date_modified: 01 May 2024
 ---
 ---
 
+📝 See here for [[/Events|all notes under the events folder]].
+
  📺 = video recording is available
+ 
 🔈= audio recording is available
+
 
 ## 2024
 - [Sculpting (more) Time with Computers](https://sculptingtime.github.io/)

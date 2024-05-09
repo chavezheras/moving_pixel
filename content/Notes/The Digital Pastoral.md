@@ -1,15 +1,16 @@
 ---
 title: "The Digital Pastoral"
 draft: false
-date: 2 February 2023
+date: 02 February 2023
 tags:
 - stable diffusion
 - text-to-image
 - AI art
+date_modified: 09 May 2024
 ---
 ---
 
-I created the image below using #stablediffusion (before it was cool and every media scholar started doing it) and used it for my very short presentation at [[Transmediale 2023 | Transmediale 2023]].
+I created the image below using #stablediffusion (before it was cool and every media scholar started doing it) and used it for my very short presentation at [[../Events/Transmediale 2023|Transmediale 2023]]
 
 
 ![[../assets/minor_tech_DCH.jpg]]

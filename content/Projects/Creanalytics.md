@@ -16,7 +16,7 @@ This idea came up when writing about the computational video essay, largely in r
 
 ![[../assets/Pasted image 20240412154543.png]]
 
-Update: this is now an article! Forthcoming in a special Issue on critical technical practice in the journal [Convergence: The International Journal of Research into New Media Technologies]([https://journals.sagepub.com/home/con](https://journals.sagepub.com/doi/10.1177/13548565231174592)) 
+Update: this is now an article! Forthcoming in a special Issue on critical technical practice in the journal [Convergence: The International Journal of Research into New Media Technologies](https://doi.org/10.1177/13548565231174592)
 
 ![[../assets/images/Screenshot from 2023-07-02 18-08-10.png]]
 

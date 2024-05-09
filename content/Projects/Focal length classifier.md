@@ -8,7 +8,7 @@ tags:
   - Photography
   - ComputerVision
 date_created: 13 April 2020
-date_modified: 02 May 2024
+date_modified: 09 May 2024
 date: 13 April 2020
 ---
 ---
@@ -61,7 +61,7 @@ And this is an example of the resulting dataframe:
 |...|...|...|...|...|
 
 This proof of concept was published as part of the article [_On Machine Vision and Photographic Imagination_](https://link.springer.com/article/10.1007/s00146-020-01091-y) (with [Tobias Blanke](https://www.uva.nl/en/profile/b/l/t.blanke/t.blanke.html)) in the journal _AI & Society_. 
-See [[../Publications/All publications|my other publications]].
+See [[../Publications/All publications|my publications]] for more.
 
 ![[../assets/Pasted image 20240502110339.png]]
 

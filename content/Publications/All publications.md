@@ -1,11 +1,12 @@
 ---
 title: all_publications
-draft: true
+draft: false
 tags:
   - navi_node
   - publications
 date_created: 12 April 2024
-date_modified: 02 May 2024
+date_modified: 09 May 2024
+date: 09 May 2024
 ---
 ---
 ## Academic publications
@@ -13,7 +14,7 @@ date_modified: 02 May 2024
 - Chávez Heras, D. (2024) [_Cinema and Machine Vision: AI, Spectatorship and Aesthetics_](https://edinburghuniversitypress.com/book-cinema-and-machine-vision.html). Edinburgh University Press.
 
 
-- Chávez Heras, D. (2023) [[Creanalytics]]: Automating the supercut as a form of critical technical practice. _Convergence_, 0(0). https://doi.org/10.1177/13548565231174592 
+- Chávez Heras, D. (2023) [[Creanalytics]]: Automating the supercut as a form of critical technical practice. _Convergence_, 30(1). https://doi.org/10.1177/13548565231174592
 
 
 - Bunz, M., Chávez Heras, D., Jäger, E., Milne, A. and Zylinska, J. (2023) Towards a C5 model in Creative AI. _Creative AI Lab_. https://creative-ai.org

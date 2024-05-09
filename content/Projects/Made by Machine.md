@@ -18,4 +18,4 @@ I was invited to join a small team of developers, engineers and producers at BBC
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/429123060?h=471e382505" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
-Other [clips are available here](https://vimeo.com/showcase/7158699). The entire programme can be seen through [Box of Broadcasts](https://learningonscreen.ac.uk/bob/) in the UK (with an education membership). I have written extensively about this project in my book [[Cinema and Machine Vision]].
+Other [clips are available here](https://vimeo.com/showcase/7158699). The entire programme can be seen through [Box of Broadcasts](https://learningonscreen.ac.uk/bob/) in the UK (with an education membership). I have written extensively about this project in my book [[../Publications/Cinema and Machine Vision profile|Cinema and Machine Vision]].

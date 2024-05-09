@@ -1,6 +1,6 @@
 ---
 title: Dataview cheatsheet
-draft: false
+draft: true
 tags:
   - tools
   - docs

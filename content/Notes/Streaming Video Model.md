@@ -15,3 +15,4 @@ Abstract:
 
 > Code will be available at [this URL](https://github.com/yuzhms/Streaming-Video-Model).
 
+See [[Streaming Video Model]] for full literature note.

@@ -12,7 +12,7 @@ date_modified: 02 May 2024
 date: 12 December 2018
 ---
 ---
-![[Pasted image 20240502111515.png]]
+![[../assets/images/mbm_poster.jpg]]
 
 I was invited to join a small team of developers, engineers and producers at BBC R&D to create “[the world’s first broadcast AI-TV programme](https://www.bbc.co.uk/rd/blog/2018-09-artificial-intelligence-archive-made-machine)”. In collaboration, we developed four computational techniques to browse the BBC television archive and automatically concatenate new sequences of clips, which were then packaged as the documentary [_Made by Machine: When AI Met the Archive_](https://www.bbc.co.uk/programmes/b0bhwk3p). The programme aired in 2018 on BBC Four, it was seen by nearly half a million people in the UK and was nominated for a Broadcast Tech Innovation award.
 

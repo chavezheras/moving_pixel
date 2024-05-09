@@ -13,13 +13,13 @@ date: 13 April 2020
 ---
 ---
 
-![[Pasted image 20240502104822.png]]
+![[../assets/Pasted image 20240502104822.png]]
 
 Does computer vision apprehend the world through a specific lens? And if so, which one? In this project I set out to design a deep learning classifier that is **purposefully blind** to what photographs are _of_; a type of machine vision that cares nothing about recognising objects, people or scenes, and is instead programmed to learn only about how photographs were made, more specifically the lenses used in their making.
 
 This project uses [Flickr](https://www.flickr.com/ "Flickr Homepage") IDs from the [Visual Genome](https://visualgenome.org/ "Visual Genome Homepage") dataset (used in [[Made by Machine]]), and extracts their [EXIF](https://en.wikipedia.org/wiki/Exif/ "What is EXIF?") metadata through [Flickr's API](https://github.com/alexis-mignon/python-flickr-api/). The model was trained using a PyTorch implementation of a vanilla VGGNet. This is how EXIF info looks on Flickr:
 
-![[Pasted image 20240502104852.png]]
+![[../assets/Pasted image 20240502104852.png]]
 
 This is an (abbreviated) example of Flickr's API response:
 
@@ -63,6 +63,6 @@ And this is an example of the resulting dataframe:
 This proof of concept was published as part of the article [_On Machine Vision and Photographic Imagination_](https://link.springer.com/article/10.1007/s00146-020-01091-y) (with [Tobias Blanke](https://www.uva.nl/en/profile/b/l/t.blanke/t.blanke.html)) in the journal _AI & Society_. 
 See [[../Publications/All publications|my other publications]].
 
-![[Pasted image 20240502110339.png]]
+![[../assets/Pasted image 20240502110339.png]]
 
 🖥️ Code and 💾 data for this project are available in [this repository](https://gitlab.com/chavezheras/shape_of_computervision).

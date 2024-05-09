@@ -12,4 +12,4 @@ tags:
 This looks interesting!
 See twitter post [here](https://twitter.com/Kaiping_Chen/status/1660703434155106313).
 
-![[assets/images/Pasted image 20230523190034.png]]
+![[../assets/images/Pasted image 20230523190034.png]]

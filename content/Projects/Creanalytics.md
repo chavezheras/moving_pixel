@@ -6,7 +6,7 @@ tags:
   - concepts
   - publications
 date_created: 03 January 2023
-date_modified: 02 May 2024
+date_modified: 09 May 2024
 ---
 ---
 
@@ -20,4 +20,4 @@ Update: this is now an article! Forthcoming in a special Issue on critical techn
 
 ![[../assets/images/Screenshot from 2023-07-02 18-08-10.png]]
 
-Also related to a project in collaboration with my colleagues [Jonathan Gray](https://jonathangray.org/) and [Mercedes Bunz](https://www.kcl.ac.uk/people/mercedes-bunz) on using video editing techniques as data analysis. We commissioned [Sam Lavigne](https://lav.io/) to work on his [[Videogrep]] tool.
+Also related to a project in collaboration with my colleagues [Jonathan Gray](https://jonathangray.org/) and [Mercedes Bunz](https://www.kcl.ac.uk/people/mercedes-bunz) on using video editing techniques as data analysis. We commissioned [Sam Lavigne](https://lav.io/) to work on his [[../Notes/Videogrep|Videogrep]] tool.

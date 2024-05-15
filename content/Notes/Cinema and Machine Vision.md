@@ -2,6 +2,10 @@
 title: Cinema and Machine Vision
 draft: false
 tags:
+  - Cinema
+  - MachineVision
+  - MachineLearning
+  - publication
 date_created: 17 August 2023, 12:00
 date_modified: 04 September 2023, 04:31
 ---

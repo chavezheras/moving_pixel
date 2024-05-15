@@ -12,6 +12,9 @@ date_modified: 28 Mar 2024
 aliases:
 ---
 ---
+Notes from this talk organised by [KCL's Policy Institute](https://www.kcl.ac.uk/policy-institute):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_8vN-QREfxE?si=aAzTheuE4au_FBvf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Ingrid Robeyns](https://en.wikipedia.org/wiki/Ingrid_Robeyns)
 #Limitarianism: the view that there should be an upper limit  to how much personal wealth a person is allowed to accumulate. See: [Having Too Much](https://www.uu.nl/en/publication/having-too-much-philosophical-essays-on-limitarianism).

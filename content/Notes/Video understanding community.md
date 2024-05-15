@@ -11,7 +11,7 @@ tags:
 Some interesting recent work on video understanding tasks and practitioners from computer science. 
 
 [CMD Challenge](https://www.robots.ox.ac.uk/~vgg/data/condensed-movies/challenge.html)
-From the [VGG group at Oxford](https://www.robots.ox.ac.uk/~vgg/). It uses a version of the [condensed movie dataset](https://www.robots.ox.ac.uk/~vgg/data/condensed-movies/)challenge, based on the same Movieclip collection I describe in [[Creanalytics|Creanalytics]]. See [their repo](https://github.com/m-bain/CondensedMovies-chall) for challenge details, and the description below:
+From the [VGG group at Oxford](https://www.robots.ox.ac.uk/~vgg/). It uses a version of the [condensed movie dataset](https://www.robots.ox.ac.uk/~vgg/data/condensed-movies/)challenge, based on the same Movieclip collection I describe in [[../Projects/Creanalytics|Creanalytics]]. See [their repo](https://github.com/m-bain/CondensedMovies-chall) for challenge details, and the description below:
 
 >__Focus__: The focus of this challenge is on the long-range understanding of high-level narrative structure in movies.
 

@@ -1,12 +1,13 @@
 ---
-title: "Zeeschuimer"
+title: Zeeschuimer
 date: 15 May 2023
 draft: false
 tags:
-- 4CAT
-- Social media analysis
-- UX methods
-- teaching
+  - 4CAT
+  - UX
+  - methods
+  - teaching
+  - SocialMedia
 ---
 ---
 

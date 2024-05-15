@@ -5,7 +5,7 @@ tags:
   - event
   - conference
   - AI
-date_created: 14 June 2021
+date: 14 June 2021
 date_modified: 12 April 2024
 ---
 ---
@@ -16,3 +16,5 @@ date_modified: 12 April 2024
 
 >In this paper we explore the notion of a conversational interface as a guiding design principle to develop AI applications for aesthetic judgement. Taking film criticism as a case study, we present an implementation of GPT2 fine-tuned using film criticism data scraped from the web. Based on our interaction with this “computational critic”, we suggest future challenges and possibilities for performing aesthetic judgements using computer models trained on cultural data.
 
+This was before LLMs went mainstream. See my note on [[../Notes/small large LLMs|small large LLMs]].
+A shout to my friend and collaborator for this, [Alfonso Sánchez López](https://twitter.com/nerdzila).

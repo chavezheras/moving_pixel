@@ -5,15 +5,15 @@ tags:
   - events
   - design
   - MachineVision
-  - art
-date_created: 18 February 2023
+  - creativeAI
+date: 18 February 2023
 date_modified: 12 April 2024
 ---
 ---
 
 From the _Click and Collect: Show Me Your Dataset_ event at Somerset House. I was invited as part of a panel with [Charlotte Webb](https://www.feministinternet.com/) and [Kristina Pulejkova](https://kristinapulejkova.com/) to discuss human-centred design in relation to AI. 
 
-I presented ongoing research on [[Creanalytics]] forthcoming as an article in a special issue on _Critical Technical Practice_ in the journal [Convergence](https://journals.sagepub.com/home/con):
+I presented ongoing research on [[../Projects/Creanalytics|Creanalytics]] forthcoming as an article in a special issue on _Critical Technical Practice_ in the journal [Convergence](https://journals.sagepub.com/home/con):
 
 <iframe title="Daniel Ch&amp;aacute;vez Heras: Artist Presentation" height="240" width="426" src="https://player.vimeo.com/video/806299101?h=31224a9af9&amp;app_id=122963" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.775 / 1; width: 100%; height: 100%;"></iframe>
 

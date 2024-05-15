@@ -6,11 +6,11 @@ tags:
   - MachineVision
   - AI
   - stablediffusion
-date_created: 16 November 2022
+date: 16 November 2022
 date_modified: 12 April 2024
 ---
 ---
-![[Pasted image 20240412165056.png]]
+![[../assets/Pasted image 20240412165056.png]]
 
 [Researching AI at KCL](https://kingsdh.net/2022/11/04/researching-ai/)
 

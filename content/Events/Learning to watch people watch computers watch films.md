@@ -3,12 +3,12 @@ title: Learning to watch people watch computers watch films
 draft: false
 tags:
   - event
-date_created: 15 November 2019
+date: 15 November 2019
 date_modified: 01 May 2024
 ---
 ---
 
-![[Pasted image 20240501183956.png]]
+![[../assets/Pasted image 20240501183956.png]]
 
 I was invited as a speaker at a workshop organised by the [AdA project](https://projectada.github.io/). Info below from their website.
 

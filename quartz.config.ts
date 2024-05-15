@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "null",
     },
     locale: "en-US",
-    baseUrl: "chavezheras.github.io/moving_pixel",
+    baseUrl: "movingpixel.net",
     ignorePatterns: ["private", "templates", ".obsidian", "copilot-conversations", "**/private", "**/copilot-conversations"],
     defaultDateType: "created",
     theme: {

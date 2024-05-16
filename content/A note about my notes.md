@@ -5,10 +5,12 @@ draft: false
 tags:
   - navi_node
 date_created: 11 April 2024
-date_modified: 15 May 2024
+date_modified: 16 May 2024
 date: 15 May 2024
 ---
 ---
+
+![[assets/images/Net_of_notes_9.jpg]]
 
 🕸️ Not quite a blog, but not a timeline either. This kind of personal wiki of linked notes is my attempt to gradually move away from social media platforms but still keep some kind of connection with the public internet.
 

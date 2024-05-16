@@ -8,6 +8,8 @@ date_modified: 01 May 2024
 ---
 ---
 
+![[assets/images/talk_to_me.jpg|450]]
+
 📰 I am available to discuss topics related to **AI** and digital culture, specifically **visual culture** and **computational creativity** (creative AI).
 
 Specific areas where I can offer insight and expertise to journalists include:

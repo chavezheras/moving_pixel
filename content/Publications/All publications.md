@@ -9,6 +9,8 @@ date_modified: 09 May 2024
 date: 09 May 2024
 ---
 ---
+
+![[../assets/images/publications.jpg|450]]
 ## Academic publications
 
 - Chávez Heras, D. (2024) [_Cinema and Machine Vision: AI, Spectatorship and Aesthetics_](https://edinburghuniversitypress.com/book-cinema-and-machine-vision.html). Edinburgh University Press.

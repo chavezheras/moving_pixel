@@ -10,6 +10,8 @@ date_modified: 12 April 2024
 
 ## Main research themes and interests
 
+![[assets/images/research_1.jpg|450]]
+
 Most of my work falls in one of these overlapping categories:
 
 - [Creative AI](https://creative-ai.org/) and interdisciplinary design

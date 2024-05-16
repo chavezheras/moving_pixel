@@ -22,7 +22,7 @@ Below you'll find some notes that are a good entry points depending on who you a
 ### 📚 [[Publications/All publications|Read my publications]]
 ### 🎓 [[Study with me]]
 ### 💬 [[Talk to me]]
-### ✉️ [[Contact|Contact me]]
+### ✉️ [[Contact|Contact info]]
 ### 🕸️ [[A note about my notes|Why a net of notes?]]
 
 

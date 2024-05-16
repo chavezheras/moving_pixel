@@ -4,7 +4,7 @@ draft: false
 tags:
   - navi_node
 date_created: 29 April 2024
-date_modified: 09 May 2024
+date_modified: 16 May 2024
 date: 08 May 2024
 ---
 ---
@@ -31,7 +31,7 @@ I aim to supervise students with projects that do not neatly fit in their curren
 I bring a combination of creative, technical, and academic expertise to the table, and I am well-equipped to facilitate interdisciplinary research, which is not as common in academia as one may think!
 You will also have significant institutional support, including access to the college's compute infrastructure, as well as to opportunities to link with my network of partners and collaborators. Above all, you will have a supervisor that will challenge you to grow intellectually and support in your career ambitions. 
 
-## How to approach?
+## How to approach me?
 First, read through the [Digital Humanities Research MPhil/PhD pages](https://www.kcl.ac.uk/study/postgraduate-research/areas/digital-humanities-research-mphil-phd)  to find relevant information about how to apply, deadlines, fees, and entry requirements. It can also be helpful to have a look at the [college's funding pages](https://www.kcl.ac.uk/study/postgraduate-research/funding). Once you know about all of this, [[Contact|get in touch!]] 
 
 Send me an email with the subject line "possible PhD proposal", with a single paragraph that includes basic information about your background, your specific area of interest, and your idea for a doctoral project. Attach a one-page project proposal with the following sections:

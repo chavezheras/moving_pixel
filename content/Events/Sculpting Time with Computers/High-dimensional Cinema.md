@@ -1,18 +1,18 @@
 ---
 title: High-dimensional Cinema
-date: 12 Jul 2023
+date: 12 July 2023
 draft: false
 tags:
   - STC
   - workshop
 date_created: 12 July 2023
-date_modified: 12 April 2024
+date_modified: 16 May 2024
 ---
 ---
 
 [[Nanne van Noord|Nanne van Noord]], [[Mila Oiva|Mila Oiva]] and myself got together to to present recent research and engage in conversation about recent advances at the intersection between cultural analytics, computational aesthetics, and machine learning. This was a public-facing event part of the the [[Sculpting Time With Computers|Sculpting Time With Computers workshop]], supported by the [Department of Digital Humanities](https://www.kcl.ac.uk/ddh) and the [Digital Futures Institute](https://www.kcl.ac.uk/dfi) at King's College London.
 
-![[assets/images/high-dimensional_cinema.jpeg]]
+![[../../assets/images/high-dimensional_cinema.jpeg]]
 
 The panel was chaired by [[Belén Vidal|Belén Vidal]]. See the full recording below and here are the timestamps for each section:
 

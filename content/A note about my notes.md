@@ -10,7 +10,7 @@ date: 15 May 2024
 ---
 ---
 
-![[assets/images/Net_of_notes_9.jpg]]
+![[assets/images/Net_of_notes_9.jpg|450]]
 
 🕸️ Not quite a blog, but not a timeline either. This kind of personal wiki of linked notes is my attempt to gradually move away from social media platforms but still keep some kind of connection with the public internet.
 

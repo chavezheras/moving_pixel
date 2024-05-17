@@ -25,8 +25,8 @@ I'm generally open to discussing potential speaking engagements and explore how 
 - A brief outline of your event's theme, format, and expected audience.
 - Expected size of the event, including relevant links or information about previous editions.
 - Other speakers who will also be invited.
-- Whether it will be recorded and how it will be disseminated.
-- Indicate if the event is free to attend or if tickets will be sold
-- If a speaker fee is available.
+- Whether the event will be recorded and how it will be disseminated.
+- If the event is free to attend or if tickets will be sold.
+- Indicate clearly if a speaker fee is available.
 
 If you want to know more, please [[Contact|contact me]]. If I am already a speaker at your event and you need a bio, [[About me (bio)|click here]]. If you are interested in contacting me for consulting work, please see [[Consulting|here]].

@@ -13,9 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: 'goatcounter', 
-      websiteId: 'movingpixel', 
-      host: 'https://movingpixel.goatcounter.com/count', 
-      scriptSrc: 'https://gc.zgo.at'
+      websiteId: 'movingpixel'
     },
     locale: "en-US",
     baseUrl: "movingpixel.net",

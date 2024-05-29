@@ -12,8 +12,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: 'goatcounter', 
-      websiteId: 'movingpixel'
+      provider: "goatcounter",
+      websiteId: "movingpixel"
     },
     locale: "en-US",
     baseUrl: "movingpixel.net",

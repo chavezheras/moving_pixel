@@ -5,7 +5,8 @@ tags:
   - entry_point
   - events
 date_created: 12 April 2024
-date_modified: 01 May 2024
+date_modified: 29 May 2024
+date: 29 May 2024
 ---
 ---
 
@@ -17,6 +18,7 @@ date_modified: 01 May 2024
 
 
 ## 2024
+- [[EYE museum conference|EYE Museum Film Conference]]
 - [Sculpting (more) Time with Computers](https://sculptingtime.github.io/)
 - [Cinema and Machine Vision ―book launch!](https://www.kcl.ac.uk/events/cinema-and-machine-vision)
 

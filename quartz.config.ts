@@ -12,7 +12,10 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "null",
+      provider: 'goatcounter', 
+      websiteId: 'movingpixel', 
+      host: 'https://movingpixel.goatcounter.com/count', 
+      scriptSrc: 'https://gc.zgo.at'
     },
     locale: "en-US",
     baseUrl: "movingpixel.net",

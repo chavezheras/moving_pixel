@@ -19,7 +19,7 @@ Most of my work falls in one of these overlapping categories:
 - Synthetic media and generative approaches in computational humanities
 - Critical technical practice, systems literacy, and computing cultures
 
-Below is a screenshot of my [PURE profile "fingerprint"](https://kclpure.kcl.ac.uk/portal/en/persons/daniel.chavez/fingerprints/)based on my [[Publications/All publications|All publications]]; for more details see [[Learn more about my work|this note about my work]].
+Below is a screenshot of my [PURE profile "fingerprint"](https://kclpure.kcl.ac.uk/portal/en/persons/daniel.chavez/fingerprints/)based on my [[Publications/All publications|All publications]]; for more details see [[Learn about my work|this note about my work]].
 
 ![[assets/Pasted image 20240429155247.png]]
 

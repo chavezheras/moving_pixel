@@ -1,10 +1,10 @@
 ---
-title: Learn more about my work
+title: Learn about my work
 draft: false
 tags:
   - navi_node
 date_created: 12 April 2024
-date_modified: 16 May 2024
+date_modified: 29 May 2024
 date: 16 May 2024
 ---
 ---

@@ -2,7 +2,8 @@
 title: My Net of Notes
 enableToc: true
 date_created: 11 April 2024
-date_modified: 01 May 2024
+date_modified: 29 May 2024
+date: 29 May 2024
 ---
 ![[assets/images/header.gif]]
 
@@ -18,7 +19,7 @@ In this site I collect most of my activities as a "net of notes", similar in con
 
 Below you'll find some notes that are a good entry points depending on who you are and how you want to engage:
 
-### 🛠️ [[Learn more about my work]]
+### 🛠️ [[Learn about my work]]
 ### 📚 [[Publications/All publications|Read my publications]]
 ### 🎓 [[Study with me]]
 ### 💬 [[Talk to me]]

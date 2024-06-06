@@ -4,11 +4,11 @@ draft: false
 tags:
   - navi_node
 date: 01 May 2024
-date_modified: 17 May 2024
+date_modified: 06 June 2024
 ---
 ---
 
-🎤 I am an experienced public speaker for diverse audiences and in different formats ―from keynotes to smaller research seminars; in **English** or **Spanish**.
+🎤 I'm generally open to requests for public speaking, and I enjoy engaging with different audiences, from education to industry to policy makers; and in different formats, from keynotes to smaller research seminars ―in **English** or in **Spanish**.
 
 I am especially keen to talk about:
 - AI and creative industries (especially film, TV, video platforms and videogames)
@@ -20,7 +20,9 @@ I am especially keen to talk about:
 
 See [[Events/All events|past events]] to get a flavour of my public lectures and seminars for academic and non-academic audiences.
 
-I'm generally open to discussing potential speaking engagements and explore how my expertise can benefit your audience. However, I have limited availability, to [[Contact|make an inquiry]] or request a talk please consider that it's essential to plan against my academic commitments and allow sufficient time to prepare, especially where international travel is involved. Please provide the following information in your inquiry:
+![[assets/images/me_talking.jpg]]
+
+I have however limited availability for public speaking these days. If you are interested in requesting a talk, the best way is through email, and it will save us both time if you provide the following information in your inquiry:
 
 - A brief outline of your event's theme, format, and expected audience.
 - Expected size of the event, including relevant links or information about previous editions.
@@ -29,4 +31,4 @@ I'm generally open to discussing potential speaking engagements and explore how 
 - If the event is free to attend or if tickets will be sold.
 - Indicate clearly if a speaker fee is available.
 
-If you want to know more, please [[Contact|contact me]]. If I am already a speaker at your event and you need a bio, [[About me (bio)|click here]]. If you are interested in contacting me for consulting work, please see [[Consulting|here]].
+If you want to know more, please [[Contact|contact me]]. If I am already a speaker at your event and you need a bio, [[About me (bio)|click here]]. If you are interested in contacting me for consulting work, please see [[Consulting|this page]].

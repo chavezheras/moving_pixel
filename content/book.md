@@ -10,7 +10,11 @@ date_modified: 17 July 2024
 ---
 ---
 
+## Book giveaway!
+
 Earlier this year I launched my new book [[Notes/Cinema and Machine Vision|Cinema and Machine Vision]], in a live recording of the [Video Essay Podcast](https://thevideoessay.com/), with the wonderful [Will DiGravio](https://www.willdigravio.com/) and as part of [King's AI festival](https://www.kcl.ac.uk/events/series/the-kings-festival-of-artificial-intelligence-2024).
+
+![[assets/images/books.jpg]]
 
 The podcast is now available here or wherever you get your podcasts, and I have a couple of free books to giveaway for listeners! Just answer the question Will mentions during the recording using the form below ([[Notes/terms and conditions|terms and conditions]] apply).
 

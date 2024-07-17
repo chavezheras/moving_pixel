@@ -20,6 +20,8 @@ Here a teaser from the back cover:
 
 I am doing a book launch event, recording a special episode of the [Video Essay Podcast](https://thevideoessay.com/) with [Will DiGravio](https://www.willdigravio.com/), as part of King's AI festival. [Register here](https://www.kcl.ac.uk/events/cinema-and-machine-vision).
 
+The podcast is now available, and you can [[../book|win a copy of the book here!]]
+
 See this for [[../Publications/Cinema and Machine Vision profile|Cinema and Machine Vision profile|a full profile of the publication]].
 
 ## Endorsements

@@ -22,6 +22,17 @@ I am doing a book launch event, recording a special episode of the [Video Essay 
 
 See this for [[../Publications/Cinema and Machine Vision profile|Cinema and Machine Vision profile|a full profile of the publication]].
 
+## Endorsements
+
+> Cinema and machine vision rescaled the world, from cell to pixel, detail to data. Daniel　Chavez Heras shows us the parallel and diverging ways they have become worldmaking. A wonderful and necessary book that starts the story of AI where it should be started: in much earlier technical imaging practices of cinema.
+> 
+> – Professor Jussi Parikka, Aarhus University, author of _Operational Images_
+
+
+>This ambitious and imaginative book explores how we can teach machines to watch films without taking away from our human pleasure of doing so. Equally well versed in the technical discourse of computer vision and the cultural theory of visuality, Daniel Chávez Heras issues an invitation to us all to envisage new ways of seeing and making with AI.
+>
+>– Professor Joanna Zylinska, King’s College London, author of _The Perception Machine_
+
 And here's [[Movie Barcodes|something]] for those who prefer to judge a book by its cover.
 
 

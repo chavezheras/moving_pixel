@@ -16,7 +16,7 @@ Two (2) hardback copies of [[Notes/Cinema and Machine Vision|Cinema and Machine 
 Participants hereby acknowledge that they are adult individuals with a valid postal address.
 Participation does not guarantee winning a book or receiving any other form of prize or compensation.
 The winners will be selected by me (Daniel), based on my personal opinion of the answers submitted by participants. By participating you agree to this selection process and essentially trust me to make this decision in a fair manner. I reserve the right to cancel or declare the draw concluded or not viable at any point.
-There will be a maximum of two winners who will be informed by email and asked to provide a valid postal address. This can be an international address but please note that the books will be sent through standard post only. Daniel and Will accept no liability or responsibility for potential loss, damage, or delay in receiving copies of the book due to postal mishandling. The books will be sent from the UK.
+There will be a maximum of two winners who will be informed by email and asked to provide a valid postal address. This can be an international address but please note that the books will be sent through standard post only. Daniel and Will accept no liability or responsibility for potential loss, damage, or delay in receiving copies of the book due to postal mishandling.
 There is no alternative prize or cash equivalent, and no option to re-post the book if it does not arrive. The only commitment is to send once a single copy of the book by standard post to the winners.
 The winners will be announced in September through Daniel's website (https://movingpixel.net/) and in later episodes of the Video Essay Podcast (https://thevideoessay.com/)  
  

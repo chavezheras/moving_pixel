@@ -6,7 +6,7 @@ tags:
   - MachineVision
   - BookLaunch
 date: 17 July 2024
-date_modified: 23 July 2024
+date_modified: 24 July 2024
 ---
 ---
 
@@ -16,7 +16,15 @@ Earlier this year I launched my new book, [[Notes/Cinema and Machine Vision|Cine
 
 ![[assets/images/books.jpg]]
 
-The episode is now available here or wherever you get your podcasts, and I have a couple of free books to giveaway for two  lucky listeners! Just listen for the question Will mentions during the podcast and submit your answer using the form below.
+The episode is now available here:
+
+<iframe src="https://podcasters.spotify.com/pod/show/thevideoessay/embed/episodes/Cinema--Machine-Vision-Live-at-The-Kings-Festival-of-Artificial-Intelligence-w-Daniel-Chvez-Heras-e2mca5n/a-abesin5" height="175px" width="800px" frameborder="0" scrolling="no"></iframe>
+
+Or wherever you get your podcasts:
+
+[![Apple Podcasts Logo](https://d1f8ha51vzawnk.cloudfront.net/images/podcast/logo-square/006/apple_podcasts.png)](https://podcasts.apple.com/us/podcast/the-video-essay-podcast/id1474512070?uo=4) [![Pocket Casts Logo](https://d1f8ha51vzawnk.cloudfront.net/images/podcast/logo-square/006/pocket_casts.png)](https://pca.st/geknrbq2) [![RadioPublic Logo](https://d1f8ha51vzawnk.cloudfront.net/images/podcast/logo-square/006/radiopublic.png)](https://radiopublic.com/the-video-essay-podcast-Wd0BeL) [![Spotify Logo](https://d1f8ha51vzawnk.cloudfront.net/images/podcast/logo-square/006/spotify.png)](https://open.spotify.com/show/3TxVowomAlLCKrRExfxeG5)
+
+And I have a couple of free books to giveaway for two lucky listeners! Just listen to the podcast and submit your answer to the question using the form below.
 [[Notes/terms and conditions|Terms and conditions]] apply.
 
 <iframe width="650px" height="800px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=FM9wg_MWFky4PHJAcWVDVt0ybxd7JpVHriO1DnsxeKJUNkNOT1hIT09NOE1YRk1FMDAyM0MyMkdMNi4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>

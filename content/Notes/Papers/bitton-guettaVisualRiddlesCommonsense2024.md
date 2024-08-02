@@ -1,6 +1,7 @@
 ---
 citekey: bitton-guettaVisualRiddlesCommonsense2024
 aliases:
+  - Notes
   - Bitton-Guetta et al. (2024) Visual Riddles
 title: "Visual Riddles: a Commonsense and World Knowledge Challenge for Large Vision and Language Models"
 authors:
@@ -30,6 +31,8 @@ tags:
   - image_generation
 doi: https://doi.org/10.48550/arXiv.2407.19474
 draft: false
+linter-yaml-title-alias: Notes
+date_modified: 02 August 2024
 ---
 
 > [!Cite]
@@ -37,6 +40,7 @@ draft: false
 
 > [!LINK] 
 > http://arxiv.org/abs/2407.19474
+> https://visual-riddles.github.io/
 
 > [!Abstract]
 >

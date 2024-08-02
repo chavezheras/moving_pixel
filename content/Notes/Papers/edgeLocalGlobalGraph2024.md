@@ -26,8 +26,9 @@ tags:
 doi: https://doi.org/10.48550/arXiv.2404.16130
 draft: false
 linter-yaml-title-alias: Notes
-date_modified: 08 May 2024
+date_modified: 02 August 2024
 ---
+See: [[../Graph RAG|Graph RAG]]
 
 > [!Cite]
 > Edge D, Trinh H, Cheng N, et al. (2024) From Local to Global: A Graph RAG Approach to Query-Focused Summarization. arXiv:2404.16130. arXiv. Available at: [http://arxiv.org/abs/2404.16130](http://arxiv.org/abs/2404.16130) (accessed 8 May 2024).

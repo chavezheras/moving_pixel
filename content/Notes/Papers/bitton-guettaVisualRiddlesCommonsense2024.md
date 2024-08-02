@@ -52,8 +52,6 @@ date_modified: 02 August 2024
 ## Annotations%% begin annotations %%
 
 
-### Imported: 02 August 2024 12:55 pm
-
 
 <mark style="background-color: #ffd400">Quote</mark>
 > existing image-understanding models struggle to integrate visual cues with world knowledge stemming from cultural aspects, life-experiences, and physical or social knowledge \[1–4]
@@ -65,6 +63,8 @@ Page: 2
 > Our benchmark’s main task (§3) involves solving riddles in an open-ended visual question answering (VQA) format, which takes as input an image and a question, and expects a free-text answer. This setup evaluates the ability to detect subtle visual cues and apply commonsense reasoning or world knowledge to formulate answers. Additionally, we investigate the impact of including hints and attributions in the input to enhance comprehension.
 
 Page: 2
+
+![](https://visual-riddles.github.io/static/images/VR_Tasks.jpg)
 
 
 <mark style="background-color: #ffd400">Quote</mark>
@@ -97,6 +97,8 @@ Page: 7
 
 Page: 8
 Note: examples of the kinds of A|B testing done to validate results
+
+![[../../assets/images/Fig4_ab_testing_chairs.png]]
 
 
 <mark style="background-color: #ffd400">Quote</mark>

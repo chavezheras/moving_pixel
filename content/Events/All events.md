@@ -5,7 +5,7 @@ tags:
   - entry_point
   - events
 date_created: 12 April 2024
-date_modified: 29 May 2024
+date_modified: 02 September 2024
 date: 29 May 2024
 ---
 ---
@@ -26,8 +26,8 @@ date: 29 May 2024
 ## 2023
 - [How Humans and Machines See the World](https://www.kcl.ac.uk/events/how-humans-and-machines-see-the-world)
 	- 📺 [video recording](https://youtu.be/_CtwWBqE_Aw?si=gzDBnruMM2La5jAP)
-- [[High-dimensional Cinema| High-Dimensional Cinema Panel]] · 📺
-- [[Sculpting Time With Computers]]
+- [[Sculpting Time with Computers/High-dimensional Cinema|High-dimensional Cinema]] · 📺
+- [[Sculpting Time with Computers/Sculpting Time With Computers|Sculpting Time With Computers]]
 - [[Human-centered machine vision?]] · 📺
 - [[Creative AI Theory and Practice]] · 📺
 - [[Transmediale 2023|Toward a Minor Tech Panel]]

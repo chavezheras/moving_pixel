@@ -19,10 +19,10 @@ In this site I collect most of my activities as a "net of notes", similar in con
 
 Below you'll find some notes that are a good entry points depending on who you are and how you want to engage:
 
-### 🛠️ [[Learn about my work]]
+### 🛠️ [[My work]]
 ### 📚 [[Publications/All publications|Read my publications]]
 ### 🎓 [[Study with me]]
-### 💬 [[Talk to me]]
+### 💬 [[Let's talk]]
 ### ✉️ [[Contact|Contact info]]
 ### 🕸️ [[A note about my notes|Why a net of notes?]]
 

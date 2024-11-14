@@ -1,5 +1,5 @@
 ---
-title: Talk to me
+title: Let's Talk
 draft: false
 tags:
   - navi_node

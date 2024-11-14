@@ -8,7 +8,7 @@ date_modified: 06 June 2024
 ---
 ---
 
-🎤 I'm generally open to requests for public speaking, and I enjoy engaging with different audiences, from education to industry to policy makers; and in different formats, from keynotes to smaller research seminars ―in **English** or in **Spanish**.
+🎤 I'm generally open to requests for public speaking, and I enjoy engaging with different audiences, from education to industry to policy; from keynotes to smaller research seminars; in **English** or in **Spanish**.
 
 I am especially keen to talk about:
 - AI and creative industries (especially film, TV, video platforms and videogames)
@@ -22,7 +22,7 @@ See [[Events/All events|past events]] to get a flavour of my public lectures and
 
 ![[assets/images/me_talking.jpg]]
 
-I have however limited availability for public speaking these days. If you are interested in requesting a talk, the best way is through email, and it will save us both time if you provide the following information in your inquiry:
+I have limited availability for public speaking. If you are interested in requesting a talk, the best way is through email, and it will save us both time if you provide the following information with your inquiry:
 
 - A brief outline of your event's theme, format, and expected audience.
 - Expected size of the event, including relevant links or information about previous editions.

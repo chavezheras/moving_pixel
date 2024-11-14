@@ -9,7 +9,7 @@ date: 08 May 2024
 ---
 ---
 
-📚 As an advocate for interdisciplinary work, I am looking for PhD students to join me in pursuing high quality research at the intersection between culture and technology. You can read [[Learn about my work|more about my work]], or see my [[Research interests|research interests]] or my [[Publications/All publications|publications]] to know more about the areas in which I work.
+📚 As an advocate for interdisciplinary work, I am looking for PhD students to join me in pursuing high quality research at the intersection between culture and technology. You can read [[My work|more about my work]], or see my [[Research interests|research interests]] or my [[Publications/All publications|publications]] to know more about the areas in which I work.
 
 ![[assets/images/study_w_me.jpg|450]]
 

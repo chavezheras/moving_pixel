@@ -1,5 +1,5 @@
 ---
-title: Learn about my work
+title: My work
 draft: false
 tags:
   - navi_node

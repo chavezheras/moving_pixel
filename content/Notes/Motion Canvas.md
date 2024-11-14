@@ -1,10 +1,12 @@
 ---
-title: "Motion Canvas"
+title: Motion Canvas
 tags:
-- tools
-- animation
-- diagramas
-- documentation
+  - tools
+  - animation
+  - diagramas
+  - documentation
+date_created: 05 May 2024
+date_modified: 14 November 2024
 ---
 ---
 

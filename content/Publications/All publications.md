@@ -38,5 +38,5 @@ date: 09 May 2024
 
 ## Other publications
 
-- [[Transmediale 2023|The Digital Pastoral]]
+- [[../Events/Transmediale 2023|The Digital Pastoral]]
 - [[Computational Spectatorship]]

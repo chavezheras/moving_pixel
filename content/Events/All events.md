@@ -5,7 +5,7 @@ tags:
   - entry_point
   - events
 date_created: 12 April 2024
-date_modified: 02 September 2024
+date_modified: 14 November 2024
 date: 29 May 2024
 ---
 ---
@@ -18,9 +18,11 @@ date: 29 May 2024
 
 
 ## 2024
+- [Geometries of Time ― Keynote](https://ifilnova.pt/en/events/artificial-atmospheres-and-unexpected-media/)
+- [Computational Ekphrasis ― PPIG 2024 Keynote](https://ppig.org/workshops/2024-annual-workshop/keynote/)· 📺
 - [[EYE museum conference|EYE Museum Film Conference]]
 - [Sculpting (more) Time with Computers](https://sculptingtime.github.io/)
-- [Cinema and Machine Vision ―book launch!](https://www.kcl.ac.uk/events/cinema-and-machine-vision)
+- [Cinema and Machine Vision ―book launch!](https://www.kcl.ac.uk/events/cinema-and-machine-vision)· 🔈
 
 ---
 ## 2023

@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [
     Component.OnlyFor(
       { titles: ["My Net of Notes"] },
-      Component.RecentNotes({showTags:true, showDate: true, title:"Recently edited notes", limit:7})
+      Component.RecentNotes({showTags:false, showDate: true, title:"Recent notes", limit:7})
     )
   ],
   footer: Component.Footer({
@@ -57,7 +57,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer({
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["twitter", "twitter_bookmarks", "a-note-about-my-notes", "contact", "publications", "learn-more-about-my-work", "study-with-me", "public-speaking", "consulting", "contact", "about-me-(bio)", "press-queries", "research-interests"])
+        const omit = new Set(["twitter", "twitter_bookmarks", "a-note-about-my-notes", "contact", "book-giveaway", "book", "learn-more-about-my-work", "study-with-me", "public-speaking", "consulting", "contact", "press-queries", "my-work"])
         return !omit.has(node.name.toLowerCase())
       },
     })),

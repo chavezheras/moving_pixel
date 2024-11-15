@@ -2,7 +2,7 @@
 title: My Net of Notes
 enableToc: true
 date_created: 11 April 2024
-date_modified: 14 November 2024
+date_modified: 15 November 2024
 date: 29 May 2024
 ---
 ![[assets/images/header.gif]]
@@ -15,10 +15,7 @@ My work combines critical frameworks in the history and theories of cinema, tele
 
 ![[assets/images/research_4.jpg|450]]
 
-In this site I collect most of my activities as a "net of notes", similar in concept and ethos to a [[A note about my notes|digital garden]]. You can explore the notes by following the back links, clicking the nodes in graph view, by using the explorer menu (if you are on a Desktop), or searching directly using the search bar above. You can also see all the notes as a expanded network by clicking the graph icon 🕸️ in the graph view widget, or the most recently edited notes below. If you just want to see the all notes as a list, click here: [[Notes/]].
-
-Below you'll find some notes that are a good entry points depending on who you are and how you want to engage:
-
+In this site I collect most of my activities as a "net of notes", similar in concept and ethos to a [[A note about my notes|digital garden]]. You can explore the notes starting with any of the following depending on who you are and how you want to engage: 
 ### 🛠️ [[My work]]
 ### 📚 [[Publications/All publications|Publications]]
 ### 🎓 [[Study with me]]
@@ -26,7 +23,7 @@ Below you'll find some notes that are a good entry points depending on who you a
 ### ✉️ [[Contact|Contact info]]
 ### 🕸️ [[A note about my notes|Why a net of notes?]]
 
-
+Alternatively you can explore by following the back links, clicking the nodes in graph view, searching directly using the search bar, or the explorer menu (desktop only). You can also see the notes and their links as a expanded network by clicking the graph icon 🕸️ in the graph view widget, start with one of the recent notes below, or even a <a id="random-page-button"> random note! 🎲 </a>
 
 
 

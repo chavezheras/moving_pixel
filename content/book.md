@@ -1,12 +1,13 @@
 ---
-title: Book giveaway!
+title: Book giveaway
 draft: false
 tags:
   - Cinema
   - MachineVision
   - BookLaunch
 date: 17 July 2024
-date_modified: 24 July 2024
+date_modified: 15 November 2024
+date_created: 14 November 2024
 ---
 ---
 

@@ -2,6 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import style from "./styles/footer.scss"
 import { version } from "../../package.json"
 import { i18n } from "../i18n"
+import script from "./scripts/_randomPage.inline"
 
 interface Options {
   links: Record<string, string>
@@ -24,10 +25,25 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+        <p></p> 
+        <ul>
+          <li>
+            <a href="#">
+            Scroll to top ↑
+            </a> 
+          </li>
+          <p></p> 
+          <li>
+            <a id="random-page-button">
+            Random Page 🎲
+            </a>
+          </li>
+        </ul>
       </footer>
     )
   }
 
   Footer.css = style
+  Footer.afterDOMLoaded = script
   return Footer
 }) satisfies QuartzComponentConstructor

@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "movingpixel.net",
     ignorePatterns: ["private", "templates", ".obsidian", "copilot-conversations", "**/private", "**/copilot-conversations"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",

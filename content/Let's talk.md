@@ -1,10 +1,10 @@
 ---
-title: Let's Talk!
+title: Get in touch
 draft: false
 tags:
   - navi_node
 date: 15 May 2024
-date_modified: 15 November 2024
+date_modified: 13 November 2024
 date_created: 14 November 2024
 ---
 ---

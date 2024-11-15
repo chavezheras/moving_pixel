@@ -6,7 +6,8 @@ tags:
 - stable diffusion
 - text-to-image
 - AI art
-date_modified: 09 May 2024
+date_modified: 15 November 2024
+date_created: 15 November 2024
 ---
 ---
 

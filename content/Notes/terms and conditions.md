@@ -10,7 +10,7 @@ date_modified: 23 July 2024
 ## Cinema and Machine Vision book giveaway in the Video Essay Podcast
 
 ### 1. Overview
-Two (2) hardback copies of [[Notes/Cinema and Machine Vision|Cinema and Machine Vision]] will be given away as gifts to listeners of the [Video Essay Podcast](https://thevideoessay.com/). By participating you agree with the below terms and conditions. This is a friendly academic book giveaway draw, and in that spirit I intend to keep T&Cs to a minimum. If you do not agree with any of the below, please do not participate. If you have any questions, please [[Contact|contact me]].
+Two (2) hardback copies of [[../Cinema and Machine Vision|Cinema and Machine Vision]] will be given away as gifts to listeners of the [Video Essay Podcast](https://thevideoessay.com/). By participating you agree with the below terms and conditions. This is a friendly academic book giveaway draw, and in that spirit I intend to keep T&Cs to a minimum. If you do not agree with any of the below, please do not participate. If you have any questions, please [[Contact|contact me]].
 
 ### 2. Terms and conditions for participation
 Participants hereby acknowledge that they are adult individuals with a valid postal address.

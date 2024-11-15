@@ -1,5 +1,5 @@
 ---
-title: Cinema and Machine Vision
+title: New book!
 draft: false
 tags:
   - Cinema
@@ -7,11 +7,11 @@ tags:
   - MachineLearning
   - publication
 date_created: 17 August 2023
-date_modified: 14 November 2024
+date_modified: 15 November 2024
 ---
 ---
 
-![[../assets/cinema_machine_vision.png]]
+![[assets/cinema_machine_vision.png]]
 
 I am very happy that my book is coming coming out in 2024 with [Edinburgh University Press](https://edinburghuniversitypress.com/book-cinema-and-machine-vision.html)
 Here a teaser from the back cover:

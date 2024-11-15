@@ -7,8 +7,8 @@ tags:
   - event
   - limitarianism
   - wealth
-date_created: 28 Mar 2024
-date_modified: 28 Mar 2024
+date_created: 28 March 2024
+date_modified: 15 November 2024
 aliases:
 ---
 ---

@@ -10,7 +10,7 @@ date: 29 May 2024
 ---
 Unless otherwise agreed, please use this bio for publications, events, and the web more generally. It can be split into a short, medium, and longer versions as needed. Aggregated word and character count highlighted below for convenience. If using for the web, please keep all links.
 
-![[content/assets/images/Semblanza/daniel_colours_cropped.jpg|350]]
+![[assets/images/Semblanza/daniel_colours_cropped.jpg|350]]
 
 > [!info] Shortest bio
 > \[23 words, 145 characters]

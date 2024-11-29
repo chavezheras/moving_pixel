@@ -8,7 +8,7 @@ date_modified: 29 November 2024
 ---
 Semblanza para publicaciones, eventos y de manera general para identificación de mi trabajo en internet. El texto puede ser dividido en version corta, mediana o larga según sea necesario. Si se utiliza en internet, favor de mantener todos los enlaces.
 
-![[content/assets/images/Semblanza/daniel_colours_cropped.jpg|350]]
+![[assets/images/Semblanza/daniel_colours_cropped.jpg|350]]
 
 > [!info] Semblanza corta
 > \[26 palabras, 181 caracteres]

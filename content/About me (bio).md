@@ -10,7 +10,7 @@ date: 29 May 2024
 ---
 Unless otherwise agreed, please use this bio for publications, events, and the web more generally. It can be split into a short, medium, and longer versions as needed. Aggregated word and character count highlighted below for convenience. If using for the web, please keep all links.
 
-![[assets/images/About me (bio)/daniel_colours.jpg|350]]
+![[content/assets/images/Semblanza/daniel_colours_cropped.jpg|350]]
 
 > [!info] Shortest bio
 > \[23 words, 145 characters]
@@ -18,7 +18,7 @@ Unless otherwise agreed, please use this bio for publications, events, and the w
 > [Dr Daniel Chávez Heras](https://movingpixel.net/) is a lecturer in Digital Culture and Creative Computing in the [Department of Digital Humanities](https://www.kcl.ac.uk/ddh) at King’s College London. 
 
 > [!info] Short bio
-> \[63 words, 145 characters]
+> \[63 words, 452 characters]
 > 
 >[Dr Daniel Chávez Heras](https://movingpixel.net/) is a lecturer in Digital Culture and Creative Computing in the [Department of Digital Humanities](https://www.kcl.ac.uk/ddh) at King’s College London.
 >
@@ -33,4 +33,5 @@ Unless otherwise agreed, please use this bio for publications, events, and the w
 >
 >Daniel has worked extensively in interdisciplinary design and creative industries, in Mexico and in the UK, with cultural institutions such as the British Council and the BBC. He is an affiliate of [King's Institute for Artificial Intelligence](https://www.kcl.ac.uk/ai), part of the [Computational Humanities Group](https://www.kcl.ac.uk/research/computational-humanities-research-group), and a member of the [Creative AI Lab](https://creative-ai.org/), in partnership with the Serpentine Galleries in London.
 
-If you need a longer bio? [[Contact|get in touch]] or [[My work|read more about my work]].
+If you need a longer bio [[Contact|get in touch]] or [[My work|read more about my work]].
+And here is a [[Notes/Semblanza|Spanish version]] too!

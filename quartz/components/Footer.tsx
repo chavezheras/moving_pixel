@@ -32,7 +32,6 @@ export default ((opts?: Options) => {
             Scroll to top ↑
             </a> 
           </li>
-          <p></p> 
           <li>
             <a id="random-page-button">
             Random Page 🎲

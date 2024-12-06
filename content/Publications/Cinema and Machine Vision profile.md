@@ -8,7 +8,7 @@ tags:
 date_created: 15 April 2024
 date_modified: 15 April 2024
 ---
-
+![[assets/cinema_machine_vision.png]]
 # Cinema and Machine Vision
 
 ## Artificial Intelligence, Aesthetics and Spectatorship

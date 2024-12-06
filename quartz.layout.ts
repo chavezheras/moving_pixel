@@ -34,7 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer({
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["twitter", "twitter_bookmarks", "a-note-about-my-notes", "contact", "publications", "learn-more-about-my-work", "study-with-me", "public-speaking", "consulting", "contact", "about-me-(bio)", "press-queries", "research-interests"])
+        const omit = new Set(["twitter", "twitter_bookmarks", "a-note-about-my-notes", "contact", "publications", "learn-more-about-my-work", "reference-letters" ,"study-with-me", "public-speaking", "consulting", "contact", "about-me-(bio)", "press-queries", "research-interests"])
         return !omit.has(node.name.toLowerCase())
       },
     })),

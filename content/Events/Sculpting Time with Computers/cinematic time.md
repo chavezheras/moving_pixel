@@ -13,7 +13,7 @@ One of the ideas that emerged from these discussions is the subjective experienc
 What would it take to engineer a fast-slow signal from sequences of frames?
 How slow is [slow cinema](https://en.wikipedia.org/wiki/Slow_cinema)?
 
-![[assets/images/20230706_152240.jpg]]
+![[../../assets/images/20230706_152240.jpg]]
 
 I mentioned the method we used to calculate the "energy" section of the [Made by Machine BBC programme in 2018](https://www.bbc.co.uk/programmes/b0bhwk3p), which basically consists on reverse engineering compression. I found [[Reverse compression as motion estimation|some of my writing on the idea]] and some experiments I ran back my PhD days. And [[Carlo Bretti]] ran an implementation of shot scale detection during [[day two]] of the workshop.
 

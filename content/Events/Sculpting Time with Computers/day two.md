@@ -15,7 +15,7 @@ On day two, we gathered again to decide what ideas we could put to the test and 
 
 - [Open clip](https://github.com/mlfoundations/open_clip) --> an open source implementation of CLIP pretrained on the LAION 2B dataset. The core idea behind CLIP is to have text and images in a shared representational space that allows calculations of proximity between them. This can then be used for analysis and retrieval.
 
-![[../../../public/assets/images/open_clip.png]]
+![[../../assets/images/open_clip.png]]
 
 
 - [Cinescale](https://cinescale.github.io/) --> a shot scale classification model trained on a set of manually annotated frames from 124 films. The goal is to classify different shots by their scale: close-up, medium shot, long shot, etc. In [[Creanalytics|this paper]] I tried shot classification without annotations using face detection, but that approach is of course limited to faces, whereas the Cinescale library can in principle pick up close-ups of objects for example.
@@ -31,7 +31,7 @@ During the [[High-dimensional Cinema|panel on high-dimensional cinema]], I refer
 
 [[Mila Oiva|Mila]] and [[Andrea Farina|Andrea]] also sampled the news reels and produced an [[Annotation guidelines|annotation guidelines]] document for possible future human annotation, and that directly informs editing style detection and open CLIP queries. 
 
-![[../../../public/assets/images/20230707_170101.jpg]]
+![[../../assets/images/20230707_170101.jpg]]
 
 Thanks to [James Graham](https://www.kcl.ac.uk/people/james-graham) and [Matt Penn](https://www.kcl.ac.uk/people/matt-penn) from the e-research team at KCL, who helped us setup ad-hoc VMs to  run these tests in the CREATE HPC cluster from the Digital Humanities Computer Lab (pictured above).
 

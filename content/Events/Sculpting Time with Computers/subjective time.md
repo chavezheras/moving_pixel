@@ -10,7 +10,7 @@ Time not only as duration, but as perceived through subjective experience, by au
 
 For the refinement session, we considered possible methods to analyse age and ageing on screen, including character age, performer age, and the gap in between. Here is how this table looked during this refinement stage:
 
-![[assets/images/20230706_151508.jpg]]
+![[../../assets/images/20230706_151508.jpg]]
 
 As a starting point, we considered what it would take to get the difference between performer age and performed age, split by gender. Performer age as a duration can be calculated by identifying the date of birth of performer, e.g. Sean Connery (1930), and their approximate age at a given performance, e.g. _Diamonds are Forever (1971)_, which means he was ~41 at the time of filming.
 

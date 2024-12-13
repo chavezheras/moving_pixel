@@ -3,6 +3,8 @@ title: "day one"
 date: 10 Jul 2023
 draft: false
 tags: STC workshop
+date_created: 06 December 2024
+date_modified: 13 December 2024
 ---
 ---
 
@@ -23,7 +25,7 @@ To kick things off, we split in four disciplinary clusters: [[film|film]], [[com
 
 (Thanks to [[Joel McKim|Joel]] for the action shot below).
 
-![[assets/images/F1AeTakXsAcmmef.jpeg]] 
+![[../../assets/images/F1AeTakXsAcmmef.jpeg]]
 
 
 ### Ideation session one: exploration

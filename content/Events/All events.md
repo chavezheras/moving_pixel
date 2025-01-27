@@ -17,6 +17,10 @@ date: 29 May 2024
 🔈= audio recording is available
 
 
+## 2025
+- [[Cinema and Machine Vision en la Ibero|Cinema and Machine Vision in CDMX]] 
+
+---
 ## 2024
 - [Geometries of Time ― Keynote](https://ifilnova.pt/en/events/artificial-atmospheres-and-unexpected-media/)
 - [Computational Ekphrasis ― PPIG 2024 Keynote](https://ppig.org/workshops/2024-annual-workshop/keynote/)· 📺

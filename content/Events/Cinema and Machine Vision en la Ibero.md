@@ -18,7 +18,7 @@ aliases:
 
 Earlier this year I was invited to [Universidad Iberoamericana](https://en.wikipedia.org/wiki/Universidad_Iberoamericana), known for short as Ibero, in Mexico City, to talk about my book [[../Publications/Cinema and Machine Vision profile|Cinema and Machine Vision]].
 
-![[content/assets/images/Cinema and Machine Vision en la Ibero/Pasted image 20250127170823.png| Book presentation at Ibero 2025]]
+![[assets/images/Cinema and Machine Vision en la Ibero/Pasted image 20250127170823.png| Book presentation at Ibero 2025]]
 
 I was also a guest in the radio show "Diseño Invisible" (invisible design). I'll post the recording here when it becomes available.
 

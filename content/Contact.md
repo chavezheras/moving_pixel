@@ -17,7 +17,7 @@ date_modified: 02 May 2024
 
 🏛️ [King's College London](https://www.kcl.ac.uk/people/daniel-chavez-heras), Strand Campus
 
-🎓 [My university profile](https://www.kcl.ac.uk/people/daniel-chavez-heras)
+🎓 [University profile](https://www.kcl.ac.uk/people/daniel-chavez-heras)
 
 🆔 [ORCID](https://orcid.org/0000-0002-9877-7496)
 

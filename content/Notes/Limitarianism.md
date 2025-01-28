@@ -8,7 +8,7 @@ tags:
   - limitarianism
   - wealth
 date_created: 28 March 2024
-date_modified: 15 November 2024
+date_modified: 28 January 2025
 aliases:
 ---
 ---
@@ -34,6 +34,6 @@ Notes from this talk organised by [KCL's Policy Institute](https://www.kcl.ac.uk
 - Not anti-growth but not dependent on growth
 - Not especially left wing
 
-Graham Hobson ― from [Patriotic Millionaires](https://patrioticmillionaires.uk/who-we-are)
+Graham Hobson ― from [Patriotic Millionaires](https://patrioticmillionaires.uk/who-we-are)🤨
 Graham is a technologist who founded Photobox in 2000, growing it to become Europe’s largest personalisation company. He now advises on growth and entrepreneurship, and works pro-bono in the areas of social impact, climate change and under-represented founders.
 - Quotes [Gary Stevenson](https://www.theguardian.com/books/2024/feb/22/the-trading-game-by-gary-stevenson-review-cashing-out)on inequality.

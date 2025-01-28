@@ -5,12 +5,12 @@ tags:
   - entry_point
   - events
 date_created: 12 April 2024
-date_modified: 14 November 2024
+date_modified: 28 January 2025
 date: 29 May 2024
 ---
 ---
 
-📝 See here for [[/Events|all notes under the events folder]].
+📝 See here for [[All events|all notes under the events folder]]
 
  📺 = video recording is available
  

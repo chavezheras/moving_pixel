@@ -5,7 +5,7 @@ tags:
   - tools
   - RAG
 date_created: 08 May 2024
-date_modified: 15 November 2024
+date_modified: 28 January 2025
 date: 08 May 2024
 ---
 ---
@@ -19,3 +19,10 @@ A Python implementation is allegedly coming...
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jCjyaQL-7mA?si=niErlcGfOuWmQ-Se" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### UPDATE
+GraphRAG has since matured and there are now a number of implementations. Here is the [official GitHub repository from Microsoft](https://microsoft.github.io/graphrag/). And here is an implementation by [Severian42](https://github.com/severian42) tailored to support local models and even a [Gradio](https://www.gradio.app/) GUI!
+
+![An LLM-generated knowledge graph built using GPT-4 Turbo](https://microsoft.github.io/graphrag/img/GraphRag-Figure1.jpg)
+
+>An LLM-generated knowledge graph built using GPT-4 Turbo from the Microsoft repo

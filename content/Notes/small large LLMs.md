@@ -5,6 +5,8 @@ draft: false
 tags:
 - LLMs
 - tools
+date_created: 27 January 2025
+date_modified: 28 January 2025
 ---
 ---
 My colleague [Mercedes Bunz](https://mercedesbunz.net/) made me aware of this allegedly [leaked document](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) from a Google engineer, in which they make the case for open-sourcing their models. TLDR; The argument is that owning and cultivating the ecosystem for innovation is more valuable than keeping the models fenced off.
@@ -23,5 +25,5 @@ Some of the models and mentioned:
 [Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/)
 >an open-source Chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT
 
-This las one was developed by a student-led university consortium called [LMSYS Org](https://lmsys.org/about/)!
+This last one was developed by a student-led university consortium called [LMSYS Org](https://lmsys.org/about/)!
 

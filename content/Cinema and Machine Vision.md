@@ -7,7 +7,7 @@ tags:
   - MachineLearning
   - publication
 date_created: 17 August 2023
-date_modified: 15 November 2024
+date_modified: 28 January 2025
 ---
 ---
 
@@ -20,7 +20,7 @@ Here a teaser from the back cover:
 
 I am doing a book launch event, recording a special episode of the [Video Essay Podcast](https://thevideoessay.com/) with [Will DiGravio](https://www.willdigravio.com/), as part of King's AI festival. [Register here](https://www.kcl.ac.uk/events/cinema-and-machine-vision).
 
-The podcast is now available, and you can [[book|win a copy of the book here!]]
+The podcast is now available, and you can [[Notes/book|win a copy of the book here!]]
 
 See this for [[../Publications/Cinema and Machine Vision profile|Cinema and Machine Vision profile|a full profile of the publication]].
 
@@ -35,6 +35,6 @@ See this for [[../Publications/Cinema and Machine Vision profile|Cinema and Mach
 >
 >– Professor Joanna Zylinska, King’s College London, author of _The Perception Machine_
 
-And here's [[Movie Barcodes|something]] for those who prefer to judge a book by its cover.
+And here's a note for those who want to [[Movie Barcodes| judge a book by its cover]].
 
 

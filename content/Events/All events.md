@@ -10,7 +10,7 @@ date: 29 May 2024
 ---
 ---
 
-📝 See here for [[All events|all notes under the events folder]]
+📝 See here for [all notes under the events folder](https://movingpixel.net/Events/)
 
  📺 = video recording is available
  

@@ -23,7 +23,7 @@ At King's, I am affiliated to the following groups:
 - [Creative AI Lab](https://creative-ai.org/)
 - [Computational Humanities Research Group](https://www.kcl.ac.uk/research/computational-humanities-research-group)
 - [AI Institute](https://www.kcl.ac.uk/ai)
-- [Institute for Human and Synthetic Minds](https://www.kcl.ac.uk/news/kings-draws-together-expertise-to-make-the-world-healthier-and-advance-our-understanding-of-intelligence)(new)
+- [Institute for Human and Synthetic Minds](https://www.kcl.ac.uk/news/kings-draws-together-expertise-to-make-the-world-healthier-and-advance-our-understanding-of-intelligence)(new!)
 
 Below is a screenshot of my [PURE profile "fingerprint"](https://kclpure.kcl.ac.uk/portal/en/persons/daniel.chavez/fingerprints/)based on my [[Publications/All publications|publications]]; for more details see [[My work|this note about my work]].
 

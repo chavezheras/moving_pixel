@@ -15,6 +15,7 @@ date: 16 May 2024
 
 In my work I aim to integrate concepts from various theories of cinema, photography, aesthetics, and philosophy more generally, with advanced computational practice, such as computational modelling, time-series analysis, and machine learning. To get a flavour of this kind of work, see for example:
 
+- [[Projects/ISSA|Intelligent Systems for Screen Archives (ISSA)]] A project funded by the [BFI](https://www.bfi.org.uk/) in partnership with film and TV archives across the UK.
 - This [[Projects/Creanalytics|parametric supercut generator]] I made using shot-scale detection
 - [[Projects/Made by Machine|An experimental AI-TV programme]] made in collaboration with BBC R&D
 - [[Projects/Focal length classifier|A focal length classifier]]I built to test the idea of an optical perspective in computer vision

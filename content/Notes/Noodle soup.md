@@ -21,7 +21,7 @@ I have been on a research fellowship and now on sabbatical. During this time, I'
 
 Most non-photographs in these notes were produced using image generation models, specifically [Stable Diffusion](https://stability.ai/stable-image) (1.5 and XL at the time) and [ComfyUI](https://github.com/comfyanonymous/ComfyUI). I have been following AI image generation for a while now, and things have changed dramatically since the days when I designed [a book cover](https://academic.oup.com/book/43085) using VQGANs in a Jupyter notebook only a few years ago. There is now a lot happening in terms of GUIs for LLMs, LVMs, LMMs, and all the ems. But I still like Comfy and similar "noodle soup" interfaces, for example [Langflow](https://github.com/langflow-ai/langflow) and [WebGL studio](https://github.com/jagenjo/webglstudio.js).
 
-I had good conversations about this at [VL/HCC PPIG](https://conf.researchr.org/home/vlhcc-2024) last year. I remember for example the project DeckFlow, by [Gregory Croisdale](https://g.regory.dev/), a sort of infinite canvas of connected nodes for text and image generation.
+I had good conversations about this at [VL/HCC PPIG](https://conf.researchr.org/home/vlhcc-2024) last year, during a talk on [[Computational Ekphrasis]]. I remember for example the project DeckFlow, by [Gregory Croisdale](https://g.regory.dev/), a sort of infinite canvas of connected nodes for text and image generation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wkg4wS4uH_g?si=uZia8HYY9Qw9wUc1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

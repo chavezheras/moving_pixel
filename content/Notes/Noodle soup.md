@@ -31,11 +31,11 @@ One very nice feature of images generated via ComfyUI is that they can include t
 
 For example, if you drag the image below into Comfy's canvas:
 
-![[content/assets/images/Noodle soup/colossus.png]]
+![[../assets/images/Noodle soup/colossus.png]]
 
 You'll see something like this:
 
-![[content/assets/images/Noodle soup/Pasted image 20250214105058.png]]
+![[../assets/images/Noodle soup/Pasted image 20250214105058.png]]
 
 Under the hood, the `PNG` image is injected with `JSON` that is then used to reconstruct the workflow. This is very convenient for collaborative iteration, as one only needs to share/load the image and others in a given community can reproduce it modify it and share it again. It enables images to disseminate through a distributed network of users that are loosely connected with each other but can nevertheless cooperate to solve technical problems and towards common aesthetic goals. I wonder if and how far these interfaces can be used in a similar way as research tools. Anyone who uses Comfy in their research or wants to explore this idea, do [[../Contact|get in touch!]]
 

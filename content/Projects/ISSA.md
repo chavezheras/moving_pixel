@@ -8,7 +8,7 @@ tags:
   - AI
   - BFI
 date: 
-date_modified: 13 February 2025
+date_modified: 14 February 2025
 aliases: 
 date_created: 13 February 2025
 ---
@@ -16,7 +16,7 @@ date_created: 13 February 2025
 
 [Intelligent Systems for Screen Archives](https://www.kcl.ac.uk/research/issa) (ISSA) has been funded!
 
-![[content/assets/images/ISSA/BFI_ISSA_kcl_logo_banner.png]]
+![[../assets/images/ISSA/BFI_ISSA_kcl_logo_banner.png]]
 
 **ISSA aims to develop critical and technical exploration of artificial intelligence technologies (AI) in the screen sector, focusing on moving image archives in the UK.**
 
@@ -24,7 +24,7 @@ The project brings together five film and television archive partners across the
 
 ISSA is delivered by the [Department of Digital Humanities](https://www.kcl.ac.uk/ddh "Department of Digital Humanities at King's") at King's College London and [King's Digital Lab](https://kdl.kcl.ac.uk/ "King's Digital Lab"), supported by the [BFI Innovation Challenge Fund](https://www.bfi.org.uk/get-funding-support/bfi-national-lottery-innovation-challenge-fund "BFI National Lottery Innovation Challenge Fund"), made possible with National Lottery funding.
 
-![[content/assets/images/ISSA/AaP34zuQ.png|450]]
+![[../assets/images/ISSA/AaP34zuQ.png|450]]
 
 For more about ISSA, see:
 - [Project page](https://www.kcl.ac.uk/research/issa)

@@ -24,3 +24,8 @@ See [programme booklet](https://assets.eyefilm.nl/downloads/blocks/Programme-Boo
 - Mila Oiva (Tallinn University)
 
 This presentation delves into the intersection of computer vision and aesthetics, exploring the temporal dynamics in large collections of moving images. It builds on the concept of aesthetically sensitive systems, integrating theories of the moving image into computational design. The session will discuss an approach to integrate three levels in modelling and visualising local, regional, and global temporal dynamics in audiovisual material. Drawing on results from a recent collaborative workshop with experiments to analyse the most important collection of newsreel series in the USSR (1944-1992), speakers Daniel Chávez Heras, Mila Oiva, and Nanne van Noord will share a combined perspective on how computational practices can be re-imagined from an aesthetic viewpoint, to develop our understanding of the temporal ‘aboutness’ of images.
+
+See [full programme](https://assets.eyefilm.nl/downloads/blocks/Programme-Booklet-Eye-International-Conference-2024.pdf).
+
+
+![](https://assets.eyefilm.nl/images/posters/_920x1292_crop_center-center_none/1250182/poster-Eye-Conference-2024.webp)

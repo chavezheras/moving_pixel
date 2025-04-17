@@ -4,7 +4,7 @@ draft: false
 tags:
   - navi_node
 date_created: 01 May 2024
-date_modified: 02 May 2024
+date_modified: 17 April 2025
 ---
 ---
 
@@ -26,6 +26,8 @@ date_modified: 02 May 2024
 
 
 ## Connect online
+
+🦋 [Connect in Bluesky](https://bsky.app/profile/dchavezheras.bsky.social)
 
 🦣 [Connect in Mastodon](https://sigmoid.social/@chavezheras)
 

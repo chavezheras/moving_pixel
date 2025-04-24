@@ -4,11 +4,16 @@ draft: false
 tags:
   - navi_node
 date_created: 29 April 2024
-date_modified: 03 December 2024
+date_modified: 24 April 2025
 ---
 ---
 
+> [!tip] Fully funded doctoral studentship!
+> Explore the collections of the [BFI National Archive](https://www.bfi.org.uk/bfi-national-archive) through this fully funded opportunity to study your PhD at the Department of Digital Humanities, in collaboration with the Head of Data & Digital Preservation at the BFI. Deadline to apply is **13 June 2025**. [[Notes/Doctoral studentship|See here for more information]].
+
+
 📚 As an advocate for interdisciplinary work, I am looking for PhD students to join me in pursuing high quality research at the intersection between culture and technology. You can read [[My work|more about my work]], or see my [[Research|research interests]] or my [[Publications/All publications|publications]] to know more about the areas in which I work. If you are a current or former student and want a reference letter, [[Reference letters|see this]].
+
 
 ![[assets/images/study_w_me.jpg|450]]
 

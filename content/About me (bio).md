@@ -25,13 +25,15 @@ Unless otherwise agreed, please use this bio for publications, events, and the w
 >He specialises in the computational production and analysis of visual culture. His research combines critical frameworks in the history and theories of cinema, television, and photography, with advanced technical practice in creative and scientific computing, including applied machine learning technologies. 
 
 > [!info] Medium bio
-> \[122 words, 833 characters]
+> \[127 words, 881 characters]
 > 
 >[Dr Daniel Chávez Heras](https://movingpixel.net/) is a lecturer in Digital Culture and Creative Computing in the [Department of Digital Humanities](https://www.kcl.ac.uk/ddh) at King’s College London.
 >
 >He specialises in the computational production and analysis of visual culture. His research combines critical frameworks in the history and theories of cinema, television, and photography, with advanced technical practice in creative and scientific computing, including applied machine learning technologies. 
 >
->Daniel has worked extensively in interdisciplinary design and creative industries, in Mexico and in the UK, with cultural institutions such as the British Council and the BBC. He is an affiliate of [King's Institute for Artificial Intelligence](https://www.kcl.ac.uk/ai), part of the [Computational Humanities Group](https://www.kcl.ac.uk/research/computational-humanities-research-group), and a member of the [Creative AI Lab](https://creative-ai.org/), in partnership with the Serpentine Galleries in London.
+>Daniel works with cultural institutions such as the British Film Institute, the British Council and the BBC. He is the author of _[Cinema and Machine Vision: Artificial Intelligence, Aesthetics and Spectatorship](https://edinburghuniversitypress.com/book-cinema-and-machine-vision.html)_ (2024, Edinburgh University Press). At King's, he is a fellow of the [Digital Futures Institute](https://www.kcl.ac.uk/digital-futures), the [Institute for Artificial Intelligence](https://www.kcl.ac.uk/ai), a member of the [Creative AI Lab](https://creative-ai.org/) and the [Computational Humanities Research Group](https://www.kcl.ac.uk/research/computational-humanities-research-group).
+>
+
 
 If you need a longer bio [[Contact|get in touch]] or [[My work|read more about my work]].
 And here is a [[Notes/Semblanza|Spanish version]] too, thanks to [[Events/Cinema and Machine Vision en la Ibero|a recent visit to Mexico]]!

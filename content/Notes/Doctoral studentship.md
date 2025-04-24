@@ -7,7 +7,7 @@ tags:
   - BFI
   - Archives
 date: 
-date_modified: 17 April 2025
+date_modified: 24 April 2025
 aliases: 
 date_created: 17 April 2025
 ---
@@ -26,9 +26,9 @@ This project aims to bring to light the collection of advertisements broadcast a
 
 This project will be jointly supervised by:
 
-**Dr Daniel Chávez Heras**, KCL (first supervisor) 👉🏽 see more details about [[../Study with me| studying with me]].
-**Dr Astrid Van den Bossche**, KCL
-**Stephen McConnachie**, Head of Data & Digital Preservation, BFI
+- **Dr Daniel Chávez Heras**, KCL (first supervisor) 👉🏽 see more details about [[../Study with me| studying with me]].
+- **Dr Astrid Van den Bossche**, KCL
+- **Stephen McConnachie**, Head of Data & Digital Preservation, BFI
 
-more details and application form here: https://www.kcl.ac.uk/study-legacy/funding/from-narratives-of-value-to-valuable-algorithms
+More details and application form here: https://www.kcl.ac.uk/study-legacy/funding/from-narratives-of-value-to-valuable-algorithms
 

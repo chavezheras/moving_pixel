@@ -10,7 +10,7 @@ tags:
   - synthetic_media
 ---
 ---
-Quick notes on video generation
+Quick links and notes on video generation:
 
 - See [Runway's GEN-1](https://twitter.com/karenxcheng/status/1627721862565482496?s=20)for an out of the box solution.
 

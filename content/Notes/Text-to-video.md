@@ -8,7 +8,7 @@ tags:
   - video
   - production
   - synthetic_media
-date_modified: 30 April 2025
+date_modified: 30 April 2023
 ---
 ---
 Quick links and notes on video generation:

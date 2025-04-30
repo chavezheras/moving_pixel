@@ -8,7 +8,7 @@ tags:
   - methods
   - teaching
   - SocialMedia
-date_modified: 14 November 2024
+date_modified: 30 April 2025
 ---
 ---
 
@@ -17,11 +17,12 @@ date_modified: 14 November 2024
 
 ![Zeeschuimer](https://github.com/digitalmethodsinitiative/zeeschuimer/blob/master/images/example_screenshot.png?raw=true)
 
-This would definitely be of interest to some of my UX students as a way to integrate in their usability tests and cultural probes when analysing social media usage.
-Repository [here](https://github.com/digitalmethodsinitiative/zeeschuimer).
+This would definitely be of interest to some of my students and colleagues for the analysis of visual digital culture. Repository [here](https://github.com/digitalmethodsinitiative/zeeschuimer).
 
+## UPDATE
+I came back to this note recently to realise that Zeeschuimer can be used to get TikTok data. See the tutorial by [Elena Pilipets](https://www.uni-siegen.de/phil/medienwissenschaft/personal/lehrende/pilipets_elena/)below. Data can then be plugged into [4CAT](https://4cat.nl/), for example, of which my department will now run an instance hosted by [KCL's eResearch](https://www.kcl.ac.uk/research/facilities/e-research), thanks to [this great project](https://www.kcl.ac.uk/research/kingscat) led by my colleague [Liliana Bounegru](https://www.kcl.ac.uk/people/liliana-bounegru).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dYMPnvknnVw?si=K7LA2hEj77KU2jC9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
+Computational moving image scholarship gathers steam!
 

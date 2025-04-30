@@ -1,6 +1,6 @@
 ---
 title: Text-to-video
-date_created: 23 Feb 2023
+date_created: 23 February 2023
 draft: false
 tags:
   - text-to-video
@@ -8,6 +8,7 @@ tags:
   - video
   - production
   - synthetic_media
+date_modified: 30 April 2025
 ---
 ---
 Quick links and notes on video generation:

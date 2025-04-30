@@ -5,7 +5,7 @@ tags:
   - entry_point
   - events
 date_created: 12 April 2024
-date_modified: 28 January 2025
+date_modified: 30 April 2025
 date: 29 May 2024
 ---
 ---
@@ -18,6 +18,9 @@ date: 29 May 2024
 
 
 ## 2025
+- [ADHO conference](https://dh2025.adho.org/) ― [Audiovisual Hack-a-thon](https://sculptingtime.github.io/DH2025/index.html) (co-organiser)
+- [MPTS conference](https://www.mediaproductionshow.com/) ― panel presentation "The Transformative Power of AI: Enhancing Media Production"
+- AI and Metadata in the Audiovisual Archive ― panel presentation
 - [[Cinema and Machine Vision en la Ibero|Cinema and Machine Vision in CDMX]] 
 
 ---

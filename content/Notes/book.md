@@ -22,7 +22,7 @@ The episode is now available [here](https://thevideoessay.com/cinema-machine-vis
 [![Apple Podcasts Logo](https://d1f8ha51vzawnk.cloudfront.net/images/podcast/logo-square/006/apple_podcasts.png)](https://podcasts.apple.com/us/podcast/the-video-essay-podcast/id1474512070?uo=4) [![Pocket Casts Logo](https://d1f8ha51vzawnk.cloudfront.net/images/podcast/logo-square/006/pocket_casts.png)](https://pca.st/geknrbq2) [![RadioPublic Logo](https://d1f8ha51vzawnk.cloudfront.net/images/podcast/logo-square/006/radiopublic.png)](https://radiopublic.com/the-video-essay-podcast-Wd0BeL) [![Spotify Logo](https://d1f8ha51vzawnk.cloudfront.net/images/podcast/logo-square/006/spotify.png)](https://open.spotify.com/show/3TxVowomAlLCKrRExfxeG5)
 
 I have a couple of free books for two lucky listeners! Just listen to the podcast and submit your answer to the question using the form below.
-[[Notes/terms and conditions|Terms and conditions]] apply.
+[[terms and conditions|Terms and conditions]] apply.
 
 ### UPDATE
 Congratulations to Vittorio Laneri who got one of the free books!

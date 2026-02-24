@@ -16,7 +16,7 @@ date_modified: 24 February 2026
 
 [FrameSense](https://github.com/kingsdigitallab/framesense) is a command-line tool for processing large moving image collections into machine-readable datasets. It is designed to run on consumer hardware or to scale up to high-performance computing (HPC) environments, so that institutions with very different levels of infrastructure can use it. The idea came out of a collaboration with [King's Digital Lab](https://kdl.kcl.ac.uk/) to develop a sustainable pipeline for analysing video at scale. FrameSense takes a collection of video files (large or small) as input and produces structured and **crucially** reproducible datasets — sequences of frames, metadata, and derived features — that can be fed into downstream machine learning and analysis pipelines. It is modular and configurable, supporting different sampling rates, output formats, and compute environments. The development and design of FrameSense is largely the work of [Geoffroy Noël](https://kdl.kcl.ac.uk/about/people/geoffroy-noel/), senior research engineer at KDL.
 
-![[assets/images/framesense_screenshot.png|500]]
+![[../assets/images/framesense_screenshot.png|500]]
 
 ## Why FrameSense?
 Many audiovisual archives hold collections that are too large to process manually and too heterogeneous for tools designed for other domains. FrameSense addresses this gap: a tool built specifically for the needs of moving image research and screen heritage, designed to be accessible to a small regional archive and a national archive alike. We are currently using it in [[ISSA|Intelligent Systems for Screen Archives]].

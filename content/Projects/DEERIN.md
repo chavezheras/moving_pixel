@@ -16,7 +16,7 @@ date_modified: 01 February 2026
 
 DEERIN is a set of four modular, open-source software prototypes developed through the [[ISSA|Intelligent Systems for Screen Archives (ISSA)]] project. The name stands for **Data Enrichment, Exploration, Retrieval, and Interaction** — the four functional areas around which the tools are organised. The prototypes are designed for moving image archives that want to experiment with AI technologies at scale and in their own collections, without depending on commercial vendors or requiring specialist in-house expertise from the outset. 
 
-![[../content/assets/images/ISSA_sem_seg.png]]
+![[../assets/images/ISSA_sem_seg.png]]
 Image credit: [Miguel Vieira](https://kdl.kcl.ac.uk/about/people/miguel-vieira/)
 
 ## The four modules

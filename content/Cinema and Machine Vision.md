@@ -35,6 +35,6 @@ See this for [[../Publications/Cinema and Machine Vision profile|Cinema and Mach
 >
 >– Professor Joanna Zylinska, King’s College London, author of _The Perception Machine_
 
-And here's a note for those who want to [[Movie Barcodes| judge a book by its cover]].
+And here's a note for those who want to [[Notes/Movie Barcodes| judge a book by its cover]].
 
 

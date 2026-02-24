@@ -39,4 +39,4 @@ You'll see something like this:
 
 Under the hood, the `PNG` image is injected with `JSON` that is then used to reconstruct the workflow. This is very convenient for collaborative iteration, as one only needs to share/load the image and others in a given community can reproduce it modify it and share it again. It enables images to disseminate through a distributed network of users that are loosely connected with each other but can nevertheless cooperate to solve technical problems and towards common aesthetic goals. I wonder if and how far these interfaces can be used in a similar way as research tools. Anyone who uses Comfy in their research or wants to explore this idea, do [[../Contact|get in touch!]]
 
-Note: Sometimes modifying the PNG will strip it from the injected JSON. For the example image above the original high-resolution PNG can be downloaded [[content/assets/images/Noodle soup/ComfyUI_00007_.png|here]] (26MB).
+Note: Sometimes modifying the PNG will strip it from the injected JSON. For the example image above the original high-resolution PNG can be downloaded [[assets/images/Noodle soup/ComfyUI_00007_.png|here]] (26MB).

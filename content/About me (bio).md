@@ -4,7 +4,7 @@ draft: false
 tags:
   - navi_node
 date_created: 02 May 2024
-date_modified: 27 January 2025
+date_modified: 23 July 2026
 date: 29 May 2024
 ---
 ---
@@ -13,21 +13,21 @@ Unless otherwise agreed, please use this bio for publications, events, and the w
 ![[assets/images/Semblanza/daniel_colours_cropped.jpg|350]]
 
 > [!info] Shortest bio
-> \[23 words, 145 characters]
+> \[26 words, 173 characters]
 > 
-> [Dr Daniel Chávez Heras](https://movingpixel.net/) is a lecturer in Digital Culture and Creative Computing in the [Department of Digital Humanities](https://www.kcl.ac.uk/ddh) at King’s College London. 
+> [Dr Daniel Chávez Heras](https://movingpixel.net/) is a [Senior Lecturer (≈Associate Professor) in Computational Humanities and AI Media](https://www.kcl.ac.uk/meet-dr-daniel-chavez-heras) in the [Department of Digital Humanities](https://www.kcl.ac.uk/ddh) at King’s College London. 
 
 > [!info] Short bio
-> \[63 words, 452 characters]
+> \[66 words, 482 characters]
 > 
->[Dr Daniel Chávez Heras](https://movingpixel.net/) is a lecturer in Digital Culture and Creative Computing in the [Department of Digital Humanities](https://www.kcl.ac.uk/ddh) at King’s College London.
+>[Dr Daniel Chávez Heras](https://movingpixel.net/) is a [Senior Lecturer (≈Associate Professor) in Computational Humanities and AI Media](https://www.kcl.ac.uk/meet-dr-daniel-chavez-heras) in the [Department of Digital Humanities](https://www.kcl.ac.uk/ddh) at King’s College London.
 >
 >He specialises in the computational production and analysis of visual culture. His research combines critical frameworks in the history and theories of cinema, television, and photography, with advanced technical practice in creative and scientific computing, including applied machine learning technologies. 
 
 > [!info] Medium bio
-> \[127 words, 881 characters]
+> \[130 words, 912 characters]
 > 
->[Dr Daniel Chávez Heras](https://movingpixel.net/) is a lecturer in Digital Culture and Creative Computing in the [Department of Digital Humanities](https://www.kcl.ac.uk/ddh) at King’s College London.
+>[Dr Daniel Chávez Heras](https://movingpixel.net/) is a [Senior Lecturer (≈Associate Professor) in Computational Humanities and AI Media](https://www.kcl.ac.uk/meet-dr-daniel-chavez-heras) in the [Department of Digital Humanities](https://www.kcl.ac.uk/ddh) at King’s College London.
 >
 >He specialises in the computational production and analysis of visual culture. His research combines critical frameworks in the history and theories of cinema, television, and photography, with advanced technical practice in creative and scientific computing, including applied machine learning technologies. 
 >

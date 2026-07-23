@@ -30,4 +30,4 @@ The prototypes are being piloted by five archives spanning all UK nations throug
 
 All code is open source under an MIT licence: [github.com/kingsdigitallab/issa](https://github.com/kingsdigitallab/issa)
 
-See [[../Events/Fantastic Futures 2025]] for a short video outlining the DEERIN prototypes, anf [[FrameSense]], which is a tool that we have been testing in this stage of early development.
+See [[../Events/Fantastic Futures 2025]] for a short video outlining the DEERIN prototypes, and [[FrameSense]], which is a tool that we have been testing in this stage of early development.

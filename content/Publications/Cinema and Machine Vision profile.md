@@ -6,7 +6,7 @@ tags:
   - publication
   - ComputerVision
 date_created: 15 April 2024
-date_modified: 15 April 2024
+date_modified: 23 July 2026
 ---
 ![[assets/cinema_machine_vision.png]]
 # Cinema and Machine Vision
@@ -30,7 +30,7 @@ _Cinema and Machine Vision_ unfolds the aesthetic, epistemic, and ideological di
 
 ---
 ## About the author
-Daniel Chávez Heras is a Lecturer in Digital Culture and Creative Computing at [King’s College London](https://www.kcl.ac.uk/people/daniel-chavez-heras). He specialises on the computational production and analysis of visual culture combining critical frameworks in the history and theories of cinema, television, and photography, with advanced technical practice in creative and scientific computing, including applied machine learning technologies.
+Daniel Chávez Heras is a [Senior Lecturer (≈Associate Professor) in Computational Humanities and AI Media](https://www.kcl.ac.uk/meet-dr-daniel-chavez-heras) at [King’s College London](https://www.kcl.ac.uk/people/daniel-chavez-heras). He specialises on the computational production and analysis of visual culture combining critical frameworks in the history and theories of cinema, television, and photography, with advanced technical practice in creative and scientific computing, including applied machine learning technologies.
 
 Daniel has worked extensively in interdisciplinary design and creative industries, in Mexico and in the UK, with cultural institutions such as the British Council, and the BBC. At King's, he is part of the [Computational Humanities Group](https://www.kcl.ac.uk/research/computational-humanities-research-group), the [Creative AI Lab](https://creative-ai.org/info) (in partnership with the [Serpentine Galleries](https://www.serpentinegalleries.org/))and an affiliate of the college's [Institute for Artificial Intelligence](https://www.kcl.ac.uk/ai). 
 

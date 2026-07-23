@@ -3,31 +3,31 @@ title: Semblanza
 draft: false
 tags: 
 date_created: 02 May 2024
-date_modified: 15 April 2025
+date_modified: 23 July 2026
 ---
 ---
-Semblanza para publicaciones, eventos y de manera general para identificación de mi trabajo en internet. El texto puede ser dividido en version corta, mediana o larga según sea necesario. Si se utiliza en internet, favor de mantener todos los enlaces.
+Semblanza para publicaciones, eventos y descripciones en internet. El texto puede ser dividido en version corta, mediana o larga según sea necesario. Si se utiliza en internet, favor de mantener todos los enlaces.
 
 ![[../assets/images/Semblanza/daniel_colours_cropped.jpg|350]]
 
 > [!info] Semblanza corta
-> \[26 palabras, 181 caracteres]
+> \[29 palabras, 195 caracteres]
 > 
-> [Dr Daniel Chávez Heras](https://movingpixel.net/) es profesor invvestigador de Cultura Digital y Creatividad Computacional en el [Departamento de Humanidades Digitales](https://www.kcl.ac.uk/ddh) en King’s College London, en Reino Unido.
+> [Dr Daniel Chávez Heras](https://movingpixel.net/) es [Profesor en Humanidades Computacionales y Medios Sintéticos](https://www.kcl.ac.uk/meet-dr-daniel-chavez-heras) en el [Departamento de Humanidades Digitales](https://www.kcl.ac.uk/ddh) en King’s College London, en Reino Unido.
 
 > [!info] Semblanza mediana
 > 
-> \[68 words, 506 characters]
+> \[70 palabras, 518 caracteres]
 > 
->[Dr Daniel Chávez Heras](https://movingpixel.net/) es profesor investigador de Cultura Digital y Creatividad Computacional en el [Departamento de Humanidades Digitales](https://www.kcl.ac.uk/ddh) en King’s College London, en Reino Unido.
+>[Dr Daniel Chávez Heras](https://movingpixel.net/) es [Profesor en Humanidades Computacionales y Medios Sintéticos](https://www.kcl.ac.uk/meet-dr-daniel-chavez-heras) en el [Departamento de Humanidades Digitales](https://www.kcl.ac.uk/ddh) en King’s College London, en Reino Unido.
 >
 >Es especialista en producción y análisis computacional de cultura visual. Su investigación combina marcos teóricos en historia y teorías de cine, televisión y fotografía, con técnicas avanzadas en computo científico y creativo, incluyendo tecnologías aplicadas de aprendizaje computacional automatizado (_[machine learning](https://es.wikipedia.org/wiki/Aprendizaje_autom%C3%A1tico)_).
 
 > [!info] Semblanza larga
 > 
-> \[123 palabras, 867 caracteres]
+> \[132 palabras, 944 caracteres]
 > 
->[Dr Daniel Chávez Heras](https://movingpixel.net/) is a lecturer in Digital Culture and Creative Computing in the [Department of Digital Humanities](https://www.kcl.ac.uk/ddh) at King’s College London.
+>[Dr Daniel Chávez Heras](https://movingpixel.net/) es [Profesor en Humanidades Computacionales y Medios Sintéticos](https://www.kcl.ac.uk/meet-dr-daniel-chavez-heras) en el [Departamento de Humanidades Digitales](https://www.kcl.ac.uk/ddh) en King’s College London, en Reino Unido.
 >
 >Es especialista en producción y análisis computacional de cultura visual. Su investigación combina marcos críticos en la historia y teorías de cine, televisión y fotografía, con técnicas avanzadas en computo científico y creativo, incluyendo tecnologías aplicadas de aprendizaje computacional automatizado (_[machine learning](https://es.wikipedia.org/wiki/Aprendizaje_autom%C3%A1tico)_).
 >

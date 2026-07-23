@@ -8,9 +8,6 @@ date_modified: 24 April 2025
 ---
 ---
 
-> [!tip] Fully funded doctoral studentship!
-> Explore the collections of the [BFI National Archive](https://www.bfi.org.uk/bfi-national-archive) through this fully funded opportunity to study your PhD at the Department of Digital Humanities, in collaboration with the Head of Data & Digital Preservation at the BFI. Deadline to apply is **13 June 2025**. [[Notes/Doctoral studentship|See here for more information]].
-
 
 📚 As an advocate for interdisciplinary work, I am looking for PhD students to join me in pursuing high quality research at the intersection between culture and technology. You can read [[My work|more about my work]], or see my [[Research|research interests]] or my [[Publications/All publications|publications]] to know more about the areas in which I work. If you are a current or former student and want a reference letter, [[Reference letters|see this]].
 
@@ -18,10 +15,10 @@ date_modified: 24 April 2025
 ![[assets/images/study_w_me.jpg|450]]
 
 ## About you
-My **ideal doctoral student** is someone with a strong disciplinary background and technical skills, who has managed to "make the jump" between arts and sciences. For example:
+My **ideal doctoral student** is someone with a strong disciplinary background and technical skills in at least two areas, similar to [T-shaped](https://en.wikipedia.org/wiki/T-shaped_skills) people, but with two legs, so more like π (Pi)-shaped. For example:
 
-* Computer scientists, software engineers, or informatics majors, already proficient in computing but keen to expand their creative and critical skills towards humanities disciplines, media and creative industries. Students who read philosophy or a willing to learn.
-* Technically minded arts and humanities students seeking to develop a strong computational practice that complements their theoretical interests in the history, theory and philosophy of media. Students who are familiar with data science, do some programming or a willing to learn.
+* Computer scientists, software engineers, or informatics majors, already proficient in computing but keen to expand their creative and critical skills towards humanities disciplines, specifically in media and creative industries. You code and like to make stuff with computers but are comfortable reading history, philosophy, complexity science.
+* Technically minded arts and humanities students seeking to develop a strong computational practice that complements their theoretical interests in the history, theory and philosophy of media and science more generally. You probably have a strong creative practice and theoretical background in arts or media, but are familiar with data science, are able to implement and adapt tools you find online, and not afraid of the command line.
 
 ## About your project 
 I aim to supervise students with projects that require radical reciprocity between rigorous scientific and creative thinking. In particular, I am interested in doctoral projects that aim to do one or more of the following:
@@ -45,3 +42,10 @@ First, read through the [Digital Humanities Research MPhil/PhD pages](https://ww
 5. Literature references
 
 I aim to respond to these queries in a maximum of one week. However my inbox can get quite busy at certain times so please send me a reminder email if you don't hear from me! Ready to apply? [[Contact|get in touch!]] 
+
+> [!tip] Fully funded doctoral studentship!
+> Explore the collections of the [BFI National Archive](https://www.bfi.org.uk/bfi-national-archive) through this fully funded opportunity to study your PhD at the Department of Digital Humanities, in collaboration with the Head of Data & Digital Preservation at the BFI. Deadline to apply is **13 June 2025**. [[Notes/Doctoral studentship|See here for more information]].
+> >>[!caution] Please note that this opportunity has now passed.
+> >>For more doctoral opportunities, see the [ADAPT-AI programme](https://adapt-ai.ac.uk/), and the [Doctoral School for Arts & Humanities](https://www.kcl.ac.uk/artshums/doctoral-school)
+
+

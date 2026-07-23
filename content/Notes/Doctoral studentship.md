@@ -7,11 +7,14 @@ tags:
   - BFI
   - Archives
 date: 
-date_modified: 24 April 2025
+date_modified: 23 July 2026
 aliases: 
 date_created: 17 April 2025
 ---
 ---
+
+> [!caution] Please note that this opportunity has now passed.
+> For more doctoral opportunities, see the [ADAPT-AI programme](https://adapt-ai.ac.uk/), and the [Doctoral School for Arts & Humanities](https://www.kcl.ac.uk/artshums/doctoral-school)
 
 I am delighted to share this **fully funded doctoral studentship** to join us in the [Department of Digital Humanities](https://www.kcl.ac.uk/ddh) at KCL, for a collaborative project with the [British Film Institute](https://www.bfi.org.uk/).
 

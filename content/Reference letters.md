@@ -20,6 +20,6 @@ The upside of this approach is that the letters that I do write tend to be more 
 
 If you want to quest a reference letter, please follow these steps (you'll need to authenticate with your KCL credentials):
 
-1. Read the following: [What is a reference and how can I make sure I get the best one?](https://internal.kcl.ac.uk/staff/help/personaltutors/documents/references-for-students.pdf)
+1. Read the following: [What is a reference and how can I make sure I get the best one?](https://self-service.kcl.ac.uk/article/KA-01336/en-us)
 2. Fill in [this form](https://forms.office.com/e/Qfnmzek2FF)
 3. [[Contact|Email me]] to confirm you have completed the form and include in the body of your email  **one paragraph** about your career ambitions and how the reference is going to help you achieve them

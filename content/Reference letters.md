@@ -5,7 +5,7 @@ tags:
   - education
   - teaching
 date: 
-date_modified: 10 February 2025
+date_modified: 16 September 2026
 aliases:
   - recommendation letters
 date_created: 06 December 2024
@@ -16,7 +16,7 @@ If you are current or former student and want a reference letter for further stu
 
 Please note that I usually write letters for my best students, to whom I have been their personal tutor during their studies, usually those whose dissertations I supervised and occasionally some who achieved high marks or produced **outstanding work** in one or more of the modules I teach. This is because there is only so many letters I can write every year, but also because I tailor them carefully to highlight student's individual strengths  to specific programmes or jobs. I never write letter for students whom I never met or just because they were enrolled in one of my modules.
 
-The upside of this approach is that the letters that I do write tend to be more effective in my view. I had students getting admitted to very competitive programmes, including for example a student getting a full scholarship in a university ranked in the top 20 worldwide, and another student who went on to set up their own AI business. 
+The upside of this approach is that the letters that I do write tend to be more effective. I had students getting admitted to very competitive programmes, jobs and who went on to set up their own companies. 
 
 If you want to quest a reference letter, please follow these steps (you'll need to authenticate with your KCL credentials):
 

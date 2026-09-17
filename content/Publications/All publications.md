@@ -28,7 +28,7 @@ date: 09 May 2024
 - Chávez Heras, D. (2019) Spectacular machinery and encrypted spectatorship. _A Peer-Reviewed Journal About_ 8(1). 1: 170–182. [https://doi.org/10.7146/aprja.v8i1.115423](https://doi.org/10.7146/aprja.v8i1.115423)
 
 
-- Chávez Heras, D. (2014) Producción espacial en las Carceri d’invenzione de Piranesi y los calabozos digitales de Diablo 3. In: Sienra Chaves S, Peréz García A, Rodríguez Torres L, et al. (eds) _La Imagen Como Pensamiento_. Universidad Autónoma del Estado de México. Available at: [http://ri.uaemex.mx/handle/20.500.11799/32285](http://ri.uaemex.mx/handle/20.500.11799/32285)
+- Chávez Heras, D. (2014) Producción espacial en las Carceri d’invenzione de Piranesi y los calabozos digitales de Diablo 3. In: Sienra Chaves S, Pérez García A, Rodríguez Torres L, et al. (eds) _La Imagen Como Pensamiento_. Universidad Autónoma del Estado de México. Available at: [http://ri.uaemex.mx/handle/20.500.11799/32285](http://ri.uaemex.mx/handle/20.500.11799/32285)
 
 
 - Chávez Heras, D. (2012) The Malleable Computer: Software and the Study of the Moving Image. _Frames Cinema Journal_ 1(1).

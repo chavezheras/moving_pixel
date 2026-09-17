@@ -6,7 +6,7 @@ tags: STC workshop
 ---
 ---
 
-During day two, [[Mila Oiva|Mila]] and [[Andrea Farina|Andrea]] worked on a series of guidelines for human annotation of the the soviet news reels, focusing on scenes or "blocs", rather than stories.
+During day two, [[Mila Oiva|Mila]] and [[Andrea Farina|Andrea]] worked on a series of guidelines for human annotation of the soviet news reels, focusing on scenes or "blocs", rather than stories.
 Tags include:
 
 - Time stamps of the blocs

@@ -6,7 +6,7 @@ tags: STC workshop
 ---
 ---
 
-This table was concerned with epochs or periods of time commonly used to describe, classify and retrieve moving images, using terms such as "Victorian", "post-war", "pre-modern", etc. [[Jake Berger|Jake]]  and [[Stephen McConnachie|Stephen]] mentioned this is often how archives are searched by users and for commercial licencing: "I need a shot of a street in a rainy night in Victorian London".  They agreed an "epoch" or "era" detector would be very helpful for archive users.
+This table was concerned with epochs or periods of time commonly used to describe, classify and retrieve moving images, using terms such as "Victorian", "post-war", "pre-modern", etc. [[Jake Berger|Jake]]  and [[Stephen McConnachie|Stephen]] mentioned this is often how archives are searched by users and for commercial licensing: "I need a shot of a street in a rainy night in Victorian London".  They agreed an "epoch" or "era" detector would be very helpful for archive users.
 
 What would it take to design an "era detector"?
 

@@ -44,6 +44,6 @@ In the book chapter I go into details about why I think ekphrasis is a useful co
 
 I used the [FLUX.1 \[schnell\] model](https://huggingface.co/black-forest-labs/FLUX.1-schnell) by [Black Forest Labs](https://github.com/black-forest-labs/flux), a 12 billion parameter model running locally in my laptop (8GB VRAM), through ComfyUI. I also used three [LORAs](https://research.ibm.com/blog/LoRAs-explained) to approximate the style of a historical artefact. Besides text above, the prompt has a lot more description including trigger words for the LORAs.
 
-Here is [[Noodle soup|a longer post about interfaces like Comfy]] where I go into detail about how dragging PNG images into the interface loads the workflows used (under certain conditions). If you really want to recplicate all the workflow, feel free to take my image above.
+Here is [[Noodle soup|a longer post about interfaces like Comfy]] where I go into detail about how dragging PNG images into the interface loads the workflows used (under certain conditions). If you really want to replicate all the workflow, feel free to take my image above.
 
 

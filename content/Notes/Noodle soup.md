@@ -5,7 +5,7 @@ tags:
   - interface
   - programming
   - code
-  - stableDifusion
+  - stablediffusion
   - LLMs
   - LVM
 date: 

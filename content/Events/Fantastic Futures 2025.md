@@ -27,4 +27,4 @@ The programme addressed a broad set of challenges facing GLAM institutions under
 - Cybersecurity and data governance
 - Human-centred design and community accountability
 
-It was great to see the wider GLAM sector sharing experiences and knowledge about AI in their institutions and collections, and to catch up with freinds and colleagues! Recordings are available on the [AI4LAM YouTube channel](https://www.youtube.com/@ai4lam), and the full conference repository is archived at [doi.org/10.23636/54k0-ny43](https://doi.org/10.23636/54k0-ny43).
+It was great to see the wider GLAM sector sharing experiences and knowledge about AI in their institutions and collections, and to catch up with friends and colleagues! Recordings are available on the [AI4LAM YouTube channel](https://www.youtube.com/@ai4lam), and the full conference repository is archived at [doi.org/10.23636/54k0-ny43](https://doi.org/10.23636/54k0-ny43).

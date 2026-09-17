@@ -20,5 +20,5 @@ Joel's previous professional experience includes web design and internet analyti
 He is currently the co-director of the [MA Digital Media](http://www.bbk.ac.uk/study/2017/postgraduate/programmes/TMADIGMC_C/).
 
 ## Links
-Joels' first book _Architecture, Media and Memory: Confronting Complexity in Post-9/11 New York_ was published last year by Bloomsbury. 
+Joel's first book _Architecture, Media and Memory: Confronting Complexity in Post-9/11 New York_ was published last year by Bloomsbury. 
 he is working on a second book entitled _Rendered: Digital Animation in Art, Architecture and Design_, which draws from an ongoing investigation of the rapidly expanding field of digital animation, undertaken in collaboration with Esther Leslie. This animation project has thus far included the BIH sponsored [Life Remade: Politics of Animation Symposium](https://birkbeckliferemade.wordpress.com/), an ongoing BIMI/Vasari sponsored digital animation screening series, and a 2017 special issue of the journal animation entitled "[Life Remade: Critical Animation in the Digital Age](http://journals.sagepub.com/toc/anma/12/3)."

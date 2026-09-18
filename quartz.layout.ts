@@ -8,6 +8,10 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [
     Component.OnlyFor(
       { titles: ["My Net of Notes"] },
+      Component.FeaturedNote({title: "Recent activity"})
+    ),
+    Component.OnlyFor(
+      { titles: ["My Net of Notes"] },
       Component.RecentNotes({showTags:false, showDate: true, title:"Recent notes", limit:7})
     )
   ],

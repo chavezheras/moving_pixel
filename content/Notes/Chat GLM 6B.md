@@ -1,6 +1,8 @@
 ---
 title: Chat GLM 6B
 date: 25 Apr 2023
+date_created: 25 Apr 2023
+date_modified: 25 Apr 2023
 draft: false
 tags:
   - LLMs

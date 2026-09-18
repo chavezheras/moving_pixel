@@ -1,6 +1,8 @@
 ---
 title: "Video as data in the US"
 date: 2023-05-23
+date_created: 2023-05-23
+date_modified: 2023-05-23
 draft: false
 tags:
 - event

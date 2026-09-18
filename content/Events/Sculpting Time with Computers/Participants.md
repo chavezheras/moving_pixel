@@ -1,6 +1,8 @@
 ---
 title: "Participants"
 date: 2023-07-14
+date_created: 2023-07-14
+date_modified: 2023-07-14
 draft: false
 tags: STC workshop
 ---

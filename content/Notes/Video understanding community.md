@@ -1,6 +1,8 @@
 ---
 title: "Video-understanding community"
 date: 03 Jul 2023
+date_created: 03 Jul 2023
+date_modified: 03 Jul 2023
 draft: false
 tags:
 - video

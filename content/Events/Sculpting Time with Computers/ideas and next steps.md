@@ -1,6 +1,8 @@
 ---
 title: "ideas and next steps"
 date: 12 Jul 2023
+date_created: 12 Jul 2023
+date_modified: 12 Jul 2023
 draft: false
 tags: STC workshop
 ---

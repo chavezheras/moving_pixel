@@ -1,6 +1,8 @@
 ---
 title: "a list of all notes here"
 date: 2023-07-12
+date_created: 2023-07-12
+date_modified: 2023-07-12
 draft: false
 tags: STC workshop
 ---

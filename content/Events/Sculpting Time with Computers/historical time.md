@@ -1,6 +1,8 @@
 ---
 title: "historical time"
 date: 17 Jul 2023
+date_created: 17 Jul 2023
+date_modified: 17 Jul 2023
 draft: false
 tags: STC workshop
 ---

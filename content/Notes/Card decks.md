@@ -1,6 +1,8 @@
 ---
 title: Card decks
 date: 27 Apr 2023
+date_created: 27 Apr 2023
+date_modified: 27 Apr 2023
 draft: false
 tags:
   - teaching

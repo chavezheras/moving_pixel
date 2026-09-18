@@ -7,6 +7,8 @@ title: Film Theory and Machine Vision
 author: Antonio Somaini
 editor: Kyle Stevens
 date: 15 August 2022
+date_created: 15 August 2022
+date_modified: 15 August 2022
 item-type: Book Section
 publisher: Oxford University Press
 tags:

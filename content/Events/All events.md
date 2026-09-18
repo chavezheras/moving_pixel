@@ -5,7 +5,7 @@ tags:
   - entry_point
   - events
 date_created: 12 April 2024
-date_modified: 30 April 2025
+date_modified: 18 September 2026
 date: 29 May 2024
 ---
 ---
@@ -17,11 +17,18 @@ date: 29 May 2024
 🔈= audio recording is available
 
 
+## 2026
+- [[EUscreen Symposium 2026|EUscreen Symposium ― Reframing Openness]] ― panel presentation "Intelligent Systems for Screen Archives: Investing in Knowledge, Not Tokens" · 📺
+- [[AI and Cultural Production Workshop]] ― talk "Computational Models of Cinematic Time in the Age of AI Video"
+- [[DH2026]] ― co-organised the AVinDH workshop, [[FrameSense]] tool demo, and an ISSA poster
+
+---
 ## 2025
 - [ADHO conference](https://dh2025.adho.org/) ― [Audiovisual Hack-a-thon](https://sculptingtime.github.io/DH2025/index.html) (co-organiser)
 - [MPTS conference](https://www.mediaproductionshow.com/) ― panel presentation "The Transformative Power of AI: Enhancing Media Production"
 - AI and Metadata in the Audiovisual Archive ― panel presentation
 - [[Cinema and Machine Vision en la Ibero|Cinema and Machine Vision in CDMX]] 
+- [[Fantastic Futures 2025]] · 📺
 
 ---
 ## 2024

@@ -17,7 +17,7 @@ The paperback edition of [*Cinema and Machine Vision: Artificial Intelligence, A
 
 
 
-The book was first published in hardback and ebook in 2024, and is now held in over 837 libraries worldwide. A Chinese translation is in the works.
+The book was first published in hardback in 2024, and is now held in over 837 libraries worldwide. A Chinese translation is in the works.
 
 If you missed the hardback — or would like an affordable copy to lend, annotate, or press into someone's hands — this is your moment.
 

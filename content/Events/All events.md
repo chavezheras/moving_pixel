@@ -5,7 +5,7 @@ tags:
   - entry_point
   - events
 date_created: 12 April 2024
-date_modified: 18 September 2026
+date_modified: 28 September 2026
 date: 29 May 2024
 ---
 ---
@@ -21,6 +21,7 @@ date: 29 May 2024
 - [[EUscreen Symposium 2026|EUscreen Symposium ― Reframing Openness]] ― panel presentation "Intelligent Systems for Screen Archives: Investing in Knowledge, Not Tokens" · 📺
 - [[AI and Cultural Production Workshop]] ― talk "Computational Models of Cinematic Time in the Age of AI Video"
 - [[DH2026]] ― co-organised the AVinDH workshop, [[FrameSense]] tool demo, and an ISSA poster
+- [[ISSA Workshop 1 - National Library of Scotland|ISSA Workshop 1 ― National Library of Scotland]]
 
 ---
 ## 2025

@@ -8,8 +8,8 @@ tags:
   - AI
 date: 25 September 2026
 date_created: 28 September 2026
-date_modified: 28 September 2026
-pinned: true
+date_modified: 13 November 2026
+pinned: false
 banner: assets/images/NLS_WS1_group_photo.jpg
 ---
 ---

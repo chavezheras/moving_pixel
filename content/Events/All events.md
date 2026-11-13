@@ -5,7 +5,7 @@ tags:
   - entry_point
   - events
 date_created: 12 April 2024
-date_modified: 28 September 2026
+date_modified: 13 November 2026
 date: 29 May 2024
 ---
 ---
@@ -22,6 +22,7 @@ date: 29 May 2024
 - [[AI and Cultural Production Workshop]] ― talk "Computational Models of Cinematic Time in the Age of AI Video"
 - [[DH2026]] ― co-organised the AVinDH workshop, [[FrameSense]] tool demo, and an ISSA poster
 - [[ISSA Workshop 1 - National Library of Scotland|ISSA Workshop 1 ― National Library of Scotland]]
+- [[ISSA Workshop 2 - North West Film Archive|ISSA Workshop 2 ― North West Film Archive]]
 
 ---
 ## 2025

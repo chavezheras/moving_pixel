@@ -38,7 +38,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer({
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["twitter", "twitter_bookmarks", "a-note-about-my-notes", "contact", "publications", "learn-more-about-my-work", "reference-letters" ,"study-with-me", "public-speaking", "consulting", "contact", "about-me-(bio)", "press-queries", "research-interests"])
+        const omit = new Set(["twitter", "twitter_bookmarks", "a-note-about-my-notes", "contact", "publications", "learn-more-about-my-work", "reference-letters" ,"study-with-me", "public-speaking", "consulting", "contact", "about-me-(bio)", "press-queries", "research-interests", "research-areas-for-phds"])
         return !omit.has(node.name.toLowerCase())
       },
     })),
@@ -61,7 +61,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer({
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["twitter", "twitter_bookmarks", "a-note-about-my-notes", "contact", "book-giveaway", "book", "learn-more-about-my-work", "study-with-me", "public-speaking", "consulting", "contact", "press-queries", "my-work"])
+        const omit = new Set(["twitter", "twitter_bookmarks", "a-note-about-my-notes", "contact", "book-giveaway", "book", "learn-more-about-my-work", "study-with-me", "public-speaking", "consulting", "contact", "press-queries", "my-work", "research-areas-for-phds"])
         return !omit.has(node.name.toLowerCase())
       },
     })),

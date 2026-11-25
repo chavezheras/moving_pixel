@@ -4,7 +4,7 @@ draft: false
 tags:
   - navi_node
 date_created: 12 April 2024
-date_modified: 23 July 2026
+date_modified: 25 November 2026
 ---
 ---
 
@@ -19,11 +19,14 @@ Most of my work falls in one of these overlapping categories:
 - Synthetic media and generative approaches in computational humanities
 - [Critical technical practice](https://en.wikipedia.org/wiki/Critical_technical_practice), systems literacy, and computing cultures
 
+I am actively looking to supervise doctoral projects in these areas — see [[Research areas for PhDs|Research areas for PhDs]].
+
 At King's, I am affiliated to the following groups:
 - [Creative AI Lab](https://creative-ai.org/)
 - [Computational Humanities Research Group](https://www.kcl.ac.uk/research/computational-humanities-research-group)
 - [AI Institute](https://www.kcl.ac.uk/ai)
 - [Institute for Human and Synthetic Minds](https://www.kcl.ac.uk/news/kings-draws-together-expertise-to-make-the-world-healthier-and-advance-our-understanding-of-intelligence)
+- [Digital Futures Institute](https://www.kcl.ac.uk/digital-futures)
 
 ## Recent projects and outputs
 - [[Projects/ISSA|Intelligent Systems for Screen Archives (ISSA)]] — a BFI-funded project developing AI tools and skills for moving image archives, in partnership with five UK archives

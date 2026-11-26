@@ -4,7 +4,7 @@ draft: false
 tags:
   - navi_node
 date_created: 29 April 2024
-date_modified: 25 November 2026
+date_modified: 26 November 2026
 ---
 ---
 
@@ -34,7 +34,7 @@ I bring a combination of creative, technical, and academic expertise to the tabl
 I am also committed to negotiate the academic and institutional support you will need, including opportunities to link with my network of partners and collaborators, funding to attend and organise conferences and events to build your own network, access to archives and collections in the UK and internationally, training opportunities in and beyond the university offer, and access to infrastructure such as the college's high-performance computing cluster, plus hands-on equipment for computational media experimentation through the [[Notes/MESH Hub|MESH Hub]], a new provision in the Faculty of Arts & Humanities. I am also a fellow of the [Higher Education Academy](https://www.advance-he.ac.uk/teaching-and-learning/psf)(a recognised framework for bench-marking success within higher education teaching and learning support). Above all, you can expect to work with a supervisor that will challenge you to grow intellectually, help you to build resilience to face the (sometimes) extreme highs and lows of doctoral studies, and support you in your own career ambitions beyond the PhD.
 
 ## How to approach?
-First, read through the [Digital Humanities Research MPhil/PhD pages](https://www.kcl.ac.uk/study/postgraduate-research/areas/digital-humanities-research-mphil-phd) to find relevant information about how to apply, deadlines, fees, and entry requirements. It can also be helpful to have a look at the pages of [King's Doctoral College](https://www.kcl.ac.uk/doctoralcollege) and the [college's funding pages](https://www.kcl.ac.uk/study/postgraduate-research/funding). Once you know about all of this, send me an email with the subject line "PhD proposal" followed by the tag of the research area your project lives in, e.g. "PhD proposal — `computational-modelling`" (`creative-ai`, `computational-modelling` or `ai-literacy`). Your email should be a single paragraph that tells me your background, which research area your project belongs to, the core idea, and one specific piece of my work you build on or depart from. Attach a one-page project proposal with the following sections:
+First, read through the [Digital Humanities Research MPhil/PhD pages](https://www.kcl.ac.uk/study/postgraduate-research/areas/digital-humanities-research-mphil-phd) to find relevant information about how to apply, deadlines, fees, and entry requirements. It can also be helpful to have a look at the pages of [King's Doctoral College](https://www.kcl.ac.uk/doctoralcollege) and the [college's funding pages](https://www.kcl.ac.uk/study/postgraduate-research/funding). Once you know about all of this, send me an email with the subject line "PhD proposal" followed by the tag of the research area your project lives in, e.g. "PhD proposal — `computational-modelling`" (`creative-ai`, `computational-modelling` or `ai-literacy`). Your email should be a single paragraph that tells me your background, which research area your project belongs to, the core idea, and one specific piece of my work you build on or depart from. Attach a copy of your CV and a one-page project proposal with the following sections:
 
 1. Title
 2. Research question

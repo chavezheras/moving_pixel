@@ -12,13 +12,13 @@ date_created: 06 December 2024
 ---
 ---
 
-If you are current or former student and want a reference letter for further study, this page is for you.
+If you are a current or former student and want a reference letter for further study, this page is for you.
 
-Please note that I usually write letters for my best students, to whom I have been their personal tutor during their studies, usually those whose dissertations I supervised and occasionally some who achieved high marks or produced **outstanding work** in one or more of the modules I teach. This is because there is only so many letters I can write every year, but also because I tailor them carefully to highlight student's individual strengths  to specific programmes or jobs. I never write letter for students whom I never met or just because they were enrolled in one of my modules.
+Please note that I usually write letters for my best students, for whom I have been a personal tutor during their studies — usually those whose dissertations I supervised and occasionally some who achieved high marks or produced **outstanding work** in one or more of the modules I teach. This is because there are only so many letters I can write every year, but also because I tailor them carefully to highlight the student’s individual strengths for specific programmes or jobs. I never write letters for students whom I have never met or just because they were enrolled in one of my modules.
 
-The upside of this approach is that the letters that I do write tend to be more effective. I had students getting admitted to very competitive programmes, jobs and who went on to set up their own companies. 
+The upside of this approach is that the letters that I do write tend to be more effective. I have had students get admitted to very competitive programmes and jobs, and some have gone on to set up their own companies.
 
-If you want to quest a reference letter, please follow these steps (you'll need to authenticate with your KCL credentials):
+If you want to request a reference letter, please follow these steps (you'll need to authenticate with your KCL credentials):
 
 1. Read the following: [What is a reference and how can I make sure I get the best one?](https://self-service.kcl.ac.uk/article/KA-01336/en-us)
 2. Fill in [this form](https://forms.office.com/e/Qfnmzek2FF)
